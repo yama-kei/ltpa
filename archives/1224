@@ -1,0 +1,461 @@
+<!DOCTYPE html>
+<!--[if IE 8]>
+<html id="ie8" lang="ja">
+<![endif]-->
+<!--[if !(IE 8)]><!-->
+<html lang="ja">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<title>Attack! 299 | 鈍行・パロアルトの自転車メモ</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="http://www.yama-kei.org/local_train_nakameguro2/xmlrpc.php" />
+<!--[if lt IE 9]>
+<script src="http://www.yama-kei.org/local_train_nakameguro2/wp-content/themes/sundance/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="鈍行・パロアルトの自転車メモ &raquo; フィード" href="http://www.yama-kei.org/local_train_nakameguro2/feed" />
+<link rel="alternate" type="application/rss+xml" title="鈍行・パロアルトの自転車メモ &raquo; コメントフィード" href="http://www.yama-kei.org/local_train_nakameguro2/comments/feed" />
+<link rel="alternate" type="application/rss+xml" title="鈍行・パロアルトの自転車メモ &raquo; Attack! 299 のコメントのフィード" href="http://www.yama-kei.org/local_train_nakameguro2/archives/1224/feed" />
+<link rel='stylesheet' id='wp-block-library-css' href='http://www.yama-kei.org/local_train_nakameguro2/wp-includes/css/dist/block-library/style.min.css?ver=6.4.2' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='style-css' href='http://www.yama-kei.org/local_train_nakameguro2/wp-content/themes/sundance/style.css?ver=6.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='sundance-droid-serif-css' href='http://fonts.googleapis.com/css?family=Droid+Serif%3A400%2C700%2C400italic%2C700italic&#038;ver=20120821' type='text/css' media='all' />
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/prototype/1.7.1.0/prototype.js?ver=1.7.1" id="prototype-js"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/scriptaculous/1.9.0/scriptaculous.js?ver=1.9.0" id="scriptaculous-root-js"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/scriptaculous/1.9.0/effects.js?ver=1.9.0" id="scriptaculous-effects-js"></script>
+<script type="text/javascript" src="http://www.yama-kei.org/local_train_nakameguro2/wp-content/plugins/lightbox-2/lightbox.js?ver=1.8" id="lightbox-js"></script>
+<script type="text/javascript" src="http://www.yama-kei.org/local_train_nakameguro2/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="http://www.yama-kei.org/local_train_nakameguro2/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<link rel="https://api.w.org/" href="http://www.yama-kei.org/local_train_nakameguro2/wp-json/" /><link rel="alternate" type="application/json" href="http://www.yama-kei.org/local_train_nakameguro2/wp-json/wp/v2/posts/1224" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.yama-kei.org/local_train_nakameguro2/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.4.2" />
+<link rel="canonical" href="http://www.yama-kei.org/local_train_nakameguro2/archives/1224" />
+<link rel='shortlink' href='http://www.yama-kei.org/local_train_nakameguro2/?p=1224' />
+<link rel="alternate" type="application/json+oembed" href="http://www.yama-kei.org/local_train_nakameguro2/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.yama-kei.org%2Flocal_train_nakameguro2%2Farchives%2F1224" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.yama-kei.org/local_train_nakameguro2/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.yama-kei.org%2Flocal_train_nakameguro2%2Farchives%2F1224&#038;format=xml" />
+
+	<!-- begin lightbox scripts -->
+	<script type="text/javascript">
+    //<![CDATA[
+    document.write('<link rel="stylesheet" href="http://www.yama-kei.org/local_train_nakameguro2/wp-content/plugins/lightbox-2/Themes/White/lightbox.css" type="text/css" media="screen" />');
+    //]]>
+    </script>
+	<!-- end lightbox scripts -->
+<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style><style type="text/css" id="custom-background-css">
+body.custom-background { background-image: url("http://www.yama-kei.org/local_train_nakameguro2/wp-content/themes/sundance/images/bg.jpg"); background-position: left top; background-size: auto; background-repeat: repeat; background-attachment: scroll; }
+</style>
+	<link rel="icon" href="http://www.yama-kei.org/local_train_nakameguro2/wp-content/uploads/cropped-IMG_20200712_143136-EFFECTS-1-scaled-1-32x32.jpg" sizes="32x32" />
+<link rel="icon" href="http://www.yama-kei.org/local_train_nakameguro2/wp-content/uploads/cropped-IMG_20200712_143136-EFFECTS-1-scaled-1-192x192.jpg" sizes="192x192" />
+<link rel="apple-touch-icon" href="http://www.yama-kei.org/local_train_nakameguro2/wp-content/uploads/cropped-IMG_20200712_143136-EFFECTS-1-scaled-1-180x180.jpg" />
+<meta name="msapplication-TileImage" content="http://www.yama-kei.org/local_train_nakameguro2/wp-content/uploads/cropped-IMG_20200712_143136-EFFECTS-1-scaled-1-270x270.jpg" />
+</head>
+
+<body class="post-template-default single single-post postid-1224 single-format-standard custom-background">
+<div id="page" class="hfeed site">
+		<header id="masthead" class="site-header" role="banner">
+		<div class="masthead-inner clear-fix">
+			<hgroup>
+				<h1 class="site-title"><a href="http://www.yama-kei.org/local_train_nakameguro2/" title="鈍行・パロアルトの自転車メモ" rel="home">鈍行・パロアルトの自転車メモ</a></h1>
+				<h2 class="site-description"></h2>
+			</hgroup>
+
+							<a href="http://www.yama-kei.org/local_train_nakameguro2/" title="鈍行・パロアルトの自転車メモ" rel="home" class="clear header-image-link">
+					<img src="http://www.yama-kei.org/local_train_nakameguro2/wp-content/uploads/cropped-1500x500-1.jpeg" width="984" height="242" alt="" />
+				</a>
+			
+			<nav role="navigation" class="site-navigation main-navigation">
+				<h1 class="assistive-text">メニュー</h1>
+				<div class="assistive-text skip-link"><a href="#content" title="コンテンツへスキップ">コンテンツへスキップ</a></div>
+
+				<div class="menu"><ul>
+<li ><a href="http://www.yama-kei.org/local_train_nakameguro2/">ホーム</a></li><li class="page_item page-item-2"><a href="http://www.yama-kei.org/local_train_nakameguro2/about">このブログについて</a></li>
+<li class="page_item page-item-32"><a href="http://www.yama-kei.org/local_train_nakameguro2/%e3%83%88%e3%83%ac%e3%83%bc%e3%83%8b%e3%83%b3%e3%82%b0%e5%bc%b7%e5%ba%a6">トレーニング強度</a></li>
+<li class="page_item page-item-40"><a href="http://www.yama-kei.org/local_train_nakameguro2/%e6%9d%b1%e4%ba%ac%e8%bf%91%e9%83%8a%e3%83%bb%e5%b3%a0%e3%83%9e%e3%83%83%e3%83%97">東京近郊・峠マップ</a></li>
+</ul></div>
+			</nav>
+		</div>
+	</header><!-- #masthead .site-header -->
+
+	<div id="main" class="clear-fix">
+		
+		<div id="primary" class="site-content">
+			<div id="content" role="main">
+
+			
+				
+<article id="post-1224" class="post-1224 post type-post status-publish format-standard hentry category-11">
+
+	<header class="entry-header">
+		<a href="http://www.yama-kei.org/local_train_nakameguro2/archives/author/admin" title="yama-kei の投稿をすべて表示">
+			<img alt='' src='http://1.gravatar.com/avatar/adc068958a301b226df5c1c1338c7e85?s=45&#038;d=identicon&#038;r=g' srcset='http://1.gravatar.com/avatar/adc068958a301b226df5c1c1338c7e85?s=90&#038;d=identicon&#038;r=g 2x' class='avatar avatar-45 photo' height='45' width='45' decoding='async'/>		</a>
+
+		<h1 class="entry-title">Attack! 299</h1>
+
+		<div class="entry-meta">
+			<a href="http://www.yama-kei.org/local_train_nakameguro2/archives/1224" title="09:11" rel="bookmark"><time class="entry-date" datetime="2011-08-08T09:11:04+09:00" pubdate>2011年8月8日</time></a><span class="byline"> by <span class="author vcard"><a class="url fn n" href="http://www.yama-kei.org/local_train_nakameguro2/archives/author/admin" title="yama-kei の投稿をすべて表示" rel="author">yama-kei</a></span></span>		</div><!-- .entry-meta -->
+	</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<p>昨年に引き続き、<a href="http://www.mikami.cc/">サイクルハウス・ミカミさん</a>主催のAttack! 299に参加。</p>
+<p><a href="http://www.yama-kei.org/local_train_nakameguro2/wp-content/uploads/DSCF0310.jpg" rel="lightbox[1224]"><img fetchpriority="high" decoding="async" class="alignnone size-medium wp-image-1225" title="DSCF0310" src="http://www.yama-kei.org/local_train_nakameguro2/wp-content/uploads/DSCF0310-320x240.jpg" alt="DSCF0310" width="320" height="240" srcset="http://www.yama-kei.org/local_train_nakameguro2/wp-content/uploads/DSCF0310-320x240.jpg 320w, http://www.yama-kei.org/local_train_nakameguro2/wp-content/uploads/DSCF0310.jpg 640w" sizes="(max-width: 320px) 100vw, 320px" /></a></p>
+<p><span id="more-1224"></span>早朝に入間の豊水橋を出発して山伏峠をパスして秩父に下り、国道299号を辿って志賀坂峠、十国峠をパスして最後は麦草峠に登り詰めてゴールというタフなコースを「みんなで楽しく協力して走りましょう」というイベント。</p>
+<p>真夏のこの時期は敬遠しがちなロングライドだけど、早朝に走る山伏峠は爽快で、そのあとに越える志賀坂峠もなかなか気持ちのよい峠。峠を下った先のアップダウン区間が地味にタフで足にダメージが出始めて、キツくて長くて暑い十国峠で体力を削り取られた挙げ句に挑む麦草峠(26km)は気持ちだけで登ることになりがち。タフなルート設定だけど、車も少なくて走りやすく、チーム3UPのみなさまが醸し出す温かい雰囲気がとても素敵。</p>
+<p>今年のBearBellメンバーは、ブルベライダーのヤマさん、ba-mosさんが4時スタート、あまがえるさんと自分が5時スタートいう布陣。昨年一緒に走った<a href="http://neopma.blog28.fc2.com/">pmaさん</a>がサポートしてくれるというので、ありがたくお言葉に甘える形でサポート担当をお願いした。</p>
+<p>＊＊</p>
+<p>金曜日の夜はスタート地点に近い入間の両親宅(半空屋状態)に泊めさせてもらう。JBCF松川への参加でAttack! 299は不参加のタマキさんから「サプライズで応援に行くため泊めてくれ」とリクエストがあったので、金晩に合流。ついつい自転車トークを繰り広げてしまったので3時間くらいしか眠れなかった。</p>
+<p><a href="http://www.yama-kei.org/local_train_nakameguro2/wp-content/uploads/DSCF0286.jpg" rel="lightbox[1224]"><img decoding="async" class="alignnone size-medium wp-image-1226" title="DSCF0286" src="http://www.yama-kei.org/local_train_nakameguro2/wp-content/uploads/DSCF0286-320x240.jpg" alt="DSCF0286" width="320" height="240" srcset="http://www.yama-kei.org/local_train_nakameguro2/wp-content/uploads/DSCF0286-320x240.jpg 320w, http://www.yama-kei.org/local_train_nakameguro2/wp-content/uploads/DSCF0286.jpg 640w" sizes="(max-width: 320px) 100vw, 320px" /></a></p>
+<p>4時組のお見送りをするべく3時に起きて支度して出発。朝起きたらタマキさんが何も言わずに着ぐるみに着替えはじめたので焦る。現地に到着してヤマさんと   pmaさんと合流。少し遅れて到着したba-mosさんは眠そう。少しずつ明るくなってきた空の下4時組がスタートしていくので声援を送る。受付を済ませ   てから朝ご飯をもぐもぐし、コンビニに買い出しに行って、荷物をpmaさんに預ける。コンビニであまがえるさんに合流。家を出たところでパンクして少し遅  れてしまったらしい。</p>
+<p><a href="http://www.yama-kei.org/local_train_nakameguro2/wp-content/uploads/DSCF0303.jpg" rel="lightbox[1224]"><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-1227" title="DSCF0303" src="http://www.yama-kei.org/local_train_nakameguro2/wp-content/uploads/DSCF0303-240x320.jpg" alt="DSCF0303" width="240" height="320" srcset="http://www.yama-kei.org/local_train_nakameguro2/wp-content/uploads/DSCF0303-240x320.jpg 240w, http://www.yama-kei.org/local_train_nakameguro2/wp-content/uploads/DSCF0303.jpg 480w" sizes="(max-width: 240px) 100vw, 240px" /></a></p>
+<p>昨年のBearBellチームは全員4:30スタートで、「みんなで一緒に(楽しく)走りましょう」という作戦だったのだけど、今回は「できるだけノンストップで進んだらどのくらいのタイムで走れるのか」に挑戦する作戦。補給なども全部サポートカーからもらう形が理想だけど、そこまでこだわりはなかったので、適当なポイントで水分をもらえれば大丈夫なようにポケットに食糧を満載して行くことにした。</p>
+<p><a href="http://www.yama-kei.org/local_train_nakameguro2/wp-content/uploads/DSCF0304.jpg" rel="lightbox[1224]"><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-1228" title="DSCF0304" src="http://www.yama-kei.org/local_train_nakameguro2/wp-content/uploads/DSCF0304-320x240.jpg" alt="DSCF0304" width="320" height="240" srcset="http://www.yama-kei.org/local_train_nakameguro2/wp-content/uploads/DSCF0304-320x240.jpg 320w, http://www.yama-kei.org/local_train_nakameguro2/wp-content/uploads/DSCF0304.jpg 640w" sizes="(max-width: 320px) 100vw, 320px" /></a></p>
+<p>ライトもいらないくらい明るくなってから5時組がスタート。強者が集まる5時組は序盤からアゲアゲで行くのかな、と思いきや割とマイルドなペースで進行。飯能市街を抜けて、緩い登りの平坦基調で35kphくらいのペースで進む。たぶん、昨年の4:30組もBearBellメンバー中心で回して似たようなペースだったと思う。5時組は全員きちんとローテに入ってペースが落ちない。山伏峠の入口であまがえるさんが先頭で行こうとするとミカミさんから「行きたい人はそのまま行ってくださーい」と声がかかる。あまがえるさん、tarmacさん、自分の3人が抜け出した状態でちょっと行ってから、ペースが弛んで集団に戻る。そこそこのペースで登り続けていくと、あまがえるさんが再びアゲていくので後ろにつく。少しずつ集団が崩壊してミカミさん、O橋さんが最後まで残る。山岳賞を取ってやろうとラストの左コーナーの手前で加速！・・・と思ったらひとつ手前のコーナーと見間違えてて失速。最後はあまがえるさんにしっかりついていったミカミさんがきっちりスプリントして山岳賞ゲット。</p>
+<p><a href="http://www.yama-kei.org/local_train_nakameguro2/wp-content/uploads/DSCF0317.jpg" rel="lightbox[1224]"><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-1229" title="DSCF0317" src="http://www.yama-kei.org/local_train_nakameguro2/wp-content/uploads/DSCF0317-320x240.jpg" alt="DSCF0317" width="320" height="240" srcset="http://www.yama-kei.org/local_train_nakameguro2/wp-content/uploads/DSCF0317-320x240.jpg 320w, http://www.yama-kei.org/local_train_nakameguro2/wp-content/uploads/DSCF0317.jpg 640w" sizes="(max-width: 320px) 100vw, 320px" /></a></p>
+<p>ゆっくり下って後続を待とうと思ったので、少し踏んで前に出てから補給食の大福をパクパク。マウンテンバイカーなミカミさんとS田さん、K島さんがガンガン下っていくのでついていく。299号に合流するポイントで全員集合・・・と思ったらS木さんが来ない。遅刻したshangri-laの２人も後ろから来るし大丈夫でしょうってことで秩父方面への下りを開始。ディープリムのミカミさんが明らかに速い。信号ストップしたあとに大人げないペースで飛ばすので、ついていけたのは山伏の峠の下りで一緒だった3人のみ。カンパは11速あるので11Tを入れてるらしい。どおりで速いと思ったよ・・・。</p>
+<p><a href="http://www.yama-kei.org/local_train_nakameguro2/wp-content/uploads/DSCF0325.jpg" rel="lightbox[1224]"><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-1230" title="DSCF0325" src="http://www.yama-kei.org/local_train_nakameguro2/wp-content/uploads/DSCF0325-240x320.jpg" alt="DSCF0325" width="240" height="320" srcset="http://www.yama-kei.org/local_train_nakameguro2/wp-content/uploads/DSCF0325-240x320.jpg 240w, http://www.yama-kei.org/local_train_nakameguro2/wp-content/uploads/DSCF0325.jpg 480w" sizes="(max-width: 240px) 100vw, 240px" /></a></p>
+<p>秩父市街に近づいてきたあたりで自分のバイクにメカトラ発生。何の前触れもなくリアの変速ができなくなったなぁと思ったら、まさかのワイヤー切れ・・・。1年以上ほったらかしてたからなぁ。ミカミさんにディレイラーをいじってもらい、リアは15T固定で行くことにする。これで峠を3つも越えなきゃならんのか、と考えると絶望的な気分になってくる。小鹿野への道のりは、リア15T固定に慣れるためにあれこれ試しながら走行。基本はインナーで、下りで踏むときはアウター。4,5%を超える登りはインナーでダンシング。39/15は53/21とか53/20に近いギアなので、割とオールマイティーに使えることが分かった。</p>
+<p><a href="http://www.yama-kei.org/local_train_nakameguro2/wp-content/uploads/DSCF0321.jpg" rel="lightbox[1224]"><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-1231" title="DSCF0321" src="http://www.yama-kei.org/local_train_nakameguro2/wp-content/uploads/DSCF0321-320x240.jpg" alt="DSCF0321" width="320" height="240" srcset="http://www.yama-kei.org/local_train_nakameguro2/wp-content/uploads/DSCF0321-320x240.jpg 320w, http://www.yama-kei.org/local_train_nakameguro2/wp-content/uploads/DSCF0321.jpg 640w" sizes="(max-width: 320px) 100vw, 320px" /></a></p>
+<p>小鹿野のコンビニで補給して再出発。出発間際になってshangri-laの２人も追いついてきたけどそのまま進行(ヒドイ)。全員がローテに参加できる程度のマイルドなペースで進行して志賀坂峠にアプローチ。登り口付近でS田さんがアタックして飛び出した状態で登りへ。例によってあまがえるさん、O橋さんが追走モードでK島さんもついてきた。マウンテンバイカーなK島さんの走りは特徴的。急な坂でグッと上げる時のダンシングはエヴァンスのダンシングと似ているなーと思う。</p>
+<p><a href="http://www.yama-kei.org/local_train_nakameguro2/wp-content/uploads/DSCF0327.jpg" rel="lightbox[1224]"><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-1232" title="DSCF0327" src="http://www.yama-kei.org/local_train_nakameguro2/wp-content/uploads/DSCF0327-320x240.jpg" alt="DSCF0327" width="320" height="240" srcset="http://www.yama-kei.org/local_train_nakameguro2/wp-content/uploads/DSCF0327-320x240.jpg 320w, http://www.yama-kei.org/local_train_nakameguro2/wp-content/uploads/DSCF0327.jpg 640w" sizes="(max-width: 320px) 100vw, 320px" /></a></p>
+<p>自分はひたすらダンシングで我慢。あまがえるさん、O橋さんが落ちてきたS田さんをパスして峠に同着。続いてほぼ一緒に峠に着いたK島さんに「ダウンヒルで前の２人をカモりましょーぜ」と声をかけて下りを飛ばす。物凄いダウンヒルを見させてもらって勉強になった。</p>
+<p><a href="http://www.yama-kei.org/local_train_nakameguro2/wp-content/uploads/DSCF0331.jpg" rel="lightbox[1224]"><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-1233" title="DSCF0331" src="http://www.yama-kei.org/local_train_nakameguro2/wp-content/uploads/DSCF0331-320x240.jpg" alt="DSCF0331" width="320" height="240" srcset="http://www.yama-kei.org/local_train_nakameguro2/wp-content/uploads/DSCF0331-320x240.jpg 320w, http://www.yama-kei.org/local_train_nakameguro2/wp-content/uploads/DSCF0331.jpg 640w" sizes="(max-width: 320px) 100vw, 320px" /></a></p>
+<p>＊＊</p>
+<p><a href="http://www.yama-kei.org/local_train_nakameguro2/wp-content/uploads/DSCF0334.jpg" rel="lightbox[1224]"><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-1234" title="DSCF0334" src="http://www.yama-kei.org/local_train_nakameguro2/wp-content/uploads/DSCF0334-320x240.jpg" alt="DSCF0334" width="320" height="240" srcset="http://www.yama-kei.org/local_train_nakameguro2/wp-content/uploads/DSCF0334-320x240.jpg 320w, http://www.yama-kei.org/local_train_nakameguro2/wp-content/uploads/DSCF0334.jpg 640w" sizes="(max-width: 320px) 100vw, 320px" /></a></p>
+<p>志賀坂峠を越えるあたりでハムストリングス周辺がピキピキきていたものの、クルクル回して誤魔化す。後ろからS田さんも合流して、5人まとまった状態で上野村の休憩所を目指す。ここの区間は地味にアップダウンが続くので、ロードレースっぽい走りを楽しめる。登りでガツンとペースが上がったりしているうちにあまがえるさんはマイペースに切り替えて離れる。残りの4人で楽しくロードレースごっこして上野村の休憩所に到着。</p>
+<p>サポートのpmaさんがいたので、シフトワイヤーをリクエストするとあるとのこと。地獄に仏ぇ?・・・と思ったら、ワイヤーがタイコの根元で切れていたらしく、タイコ部分が回収できない。麦草までこのまま走るのか・・・と暗澹たる気分になるものの、ペンチで切れたワイヤーの切片を摘んでしぶとく引っ張り続けたらタイコの回収に成功！追いついてきたミカミさんの「えー、直さないほうが楽しいジャン、せっかく開眼したのにー」という無茶苦茶な発言はあえて無視。何だかんだでミカミさんに手伝ってもらってしてワイヤーを張って修理完了。pmaさん、ミカミさん、本当にありがとうございました・・・。</p>
+<p><a href="http://www.yama-kei.org/local_train_nakameguro2/wp-content/uploads/DSCF0341.jpg" rel="lightbox[1224]"><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-1235" title="DSCF0341" src="http://www.yama-kei.org/local_train_nakameguro2/wp-content/uploads/DSCF0341-240x320.jpg" alt="DSCF0341" width="240" height="320" srcset="http://www.yama-kei.org/local_train_nakameguro2/wp-content/uploads/DSCF0341-240x320.jpg 240w, http://www.yama-kei.org/local_train_nakameguro2/wp-content/uploads/DSCF0341.jpg 480w" sizes="(max-width: 240px) 100vw, 240px" /></a></p>
+<p>気を取り直して再出発して十国峠の登りをスタート。ここは序盤が緩くて狭い(国道なのに対面通行が難しいくらい狭い！)登り。後方でガードレールに当たった音がしたと思ったら、shangri-laのT田さんがコケで滑って（？）落車。身体は無事なようだけど、GIANTのISPなシートポストが外れてしまっている。シートチューブの先端が痛んでしまってポストがしっかり固定できない模様。再び出発するのでのんびりペースで進む。</p>
+<p><a href="http://www.yama-kei.org/local_train_nakameguro2/wp-content/uploads/DSCF0342.jpg" rel="lightbox[1224]"><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-1236" title="DSCF0342" src="http://www.yama-kei.org/local_train_nakameguro2/wp-content/uploads/DSCF0342-320x240.jpg" alt="DSCF0342" width="320" height="240" srcset="http://www.yama-kei.org/local_train_nakameguro2/wp-content/uploads/DSCF0342-320x240.jpg 320w, http://www.yama-kei.org/local_train_nakameguro2/wp-content/uploads/DSCF0342.jpg 640w" sizes="(max-width: 320px) 100vw, 320px" /></a></p>
+<p>ミカミさんの「これがラストライドになるかもしれないからネー」という発言でT田さんが飛び出す。狭い道を抜けた先は一気に開けて、炎天下の急な登りが続く。おそらくここが十国峠で最もきつい区間。O橋さん、自分、あまがえるさん、S田さんといった面々でバラバラと進む。途中、S田さんやあまがえるさんとお喋りしながら進んで十国峠に到着。</p>
+<p><a href="http://www.yama-kei.org/local_train_nakameguro2/wp-content/uploads/DSCF0347.jpg" rel="lightbox[1224]"><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-1237" title="DSCF0347" src="http://www.yama-kei.org/local_train_nakameguro2/wp-content/uploads/DSCF0347-320x240.jpg" alt="DSCF0347" width="320" height="240" srcset="http://www.yama-kei.org/local_train_nakameguro2/wp-content/uploads/DSCF0347-320x240.jpg 320w, http://www.yama-kei.org/local_train_nakameguro2/wp-content/uploads/DSCF0347.jpg 640w" sizes="(max-width: 320px) 100vw, 320px" /></a></p>
+<p>待機してくれていたpmaさんに補給をもらう。4時組の動向がはっきりしなくて、ba-mosさんは上野村をスルーして行ったかどこかで道に迷ってるかもとのこと。麦草の手前のコンビニがチェックポイントなので、そこのサインを確認しましょうってことにして出発。先に下りはじめたあまがえるさんを追いかけてガンガン下る。ここの下りは少しテクいけど、今日は下りの上手な人の走りのイメージが頭にあるのでサクサク下れる。踏まないと速度が乗らないゾーンを走っていると、あまがえるさんが路肩に立ちつくしている。足を攣ってしまったようで辛そう。塩飴を渡して「引きますよ」ってことにして再スタート。下ハンで200Wくらいで淡々と踏んで、小海線の線路を越えた先で左折してコンビニ到着。約1時間前にパスしていたba-mosさんのサインを確認した上で再スタート。</p>
+<p>＊＊</p>
+<p><a href="http://www.yama-kei.org/local_train_nakameguro2/wp-content/uploads/DSCF0355.jpg" rel="lightbox[1224]"><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-1238" title="DSCF0355" src="http://www.yama-kei.org/local_train_nakameguro2/wp-content/uploads/DSCF0355-320x240.jpg" alt="DSCF0355" width="320" height="240" srcset="http://www.yama-kei.org/local_train_nakameguro2/wp-content/uploads/DSCF0355-320x240.jpg 320w, http://www.yama-kei.org/local_train_nakameguro2/wp-content/uploads/DSCF0355.jpg 640w" sizes="(max-width: 320px) 100vw, 320px" /></a></p>
+<p>右折して麦草の登りがはじまると、前方の山に黒くてヤバそうな雲がかかっている・・・。しばらく行くとポツポツと雨。強くならないでくれよという願いとは裏腹に、どんどん雨足が強くなってくる。一緒になった虹色バージョン(?)のタマレンジャーの人とお喋りしながら登っていき、斜度がゆるむあたりではしっかり踏んでスピードを乗せていく。途中からは笑ってしまうくらいのザアザア降りの雨。道路を水が流れている。標高を上げるにつれて寒くなってきてペースも落ちる。先行したと思っていたS田さん物凄い勢いでパスしていく。続いてパンクストップしていたというO橋さんもパスしていく。途中で待機してくれていたpmaさんにウィンドブレーカーをもらってラスト10km。残り5kmくらいになってからガクンとペースが落ちる。</p>
+<p>パワーを出そうとすると脂汗のようなものがジワジワ・・・・・やってしまいましたハンガーノック。土砂降りの雨の中で補給を怠ったのが最大の敗因。足を着きたくなる誘惑と闘いながら100Wも出ないような状態で補給を取って、どうにかこうにか走り続ける。峠に近づいてからは雨も止んで、ところどころ晴れ間も見えてきた。途中でパスしたPedalFar!のWレバーな方と一緒になったので、ちょっとおしゃべりして最後はスプリントしてゴール。</p>
+<p>4時組の二人もちょっと前に着いたばかりだそうで、後ろからはすぐにあまがえるさんもやってきた。チームメンバー全員が狙ったかのように同じようなタイミングでゴールすることができた模様。うーむ、素晴らしい。Attack! 299では麦草峠で振る舞われるカップヌードルが定番化していたと思っていたのだけど、今年は麦草ヒュッテにお願いしておにぎり＆豚汁が参加者全員に振る舞われるとのことだったので、ありがたくいただく。身体はボロボロで、ここまで疲れたのはいつ以来だろうという感じ。</p>
+<p>雷が鳴ってパラパラと雨が降ってきたので、pmaさんに別れを告げて峠を出発。この日は蓼科の宿に泊まり、翌日は鉢巻道路経由で甲府に出て帰りましょうという計画だったので、茅野方面に下って蓼科の宿に移動して今日の活動を終えた。</p>
+<p>＊＊</p>
+<p><a href="http://www.yama-kei.org/local_train_nakameguro2/wp-content/uploads/DSCF0296.jpg" rel="lightbox[1224]"><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-1239" title="DSCF0296" src="http://www.yama-kei.org/local_train_nakameguro2/wp-content/uploads/DSCF0296-320x240.jpg" alt="DSCF0296" width="320" height="240" srcset="http://www.yama-kei.org/local_train_nakameguro2/wp-content/uploads/DSCF0296-320x240.jpg 320w, http://www.yama-kei.org/local_train_nakameguro2/wp-content/uploads/DSCF0296.jpg 640w" sizes="(max-width: 320px) 100vw, 320px" /></a></p>
+<p>もともとはタイム狙いで走ろうと思っていた今年のAttack! 299だけど、ワイヤー切れや土砂降りのコンディション等もあり、逆にドラマチックな展開になったのかなと思う。100人規模のイベントなので、メンバー間・チーム間の見通しもよく、サポート体制も充実しているので「みんなで協力して走りましょう」というコンセプトがしっかり共有されていて、とにかく楽しく気持ちよく走らせてもらうことができた。</p>
+<p>(一番楽しんでるように見えた)主催者のミカミさん、サポートの皆様、一緒に走って下さった皆様、どうもありがとうございました！</p>
+			</div><!-- .entry-content -->
+
+	<footer class="entry-meta">
+		カテゴリー: <a href="http://www.yama-kei.org/local_train_nakameguro2/archives/category/%e3%82%b5%e3%82%a4%e3%82%af%e3%83%aa%e3%83%b3%e3%82%b0%e3%81%ae%e8%a8%98%e9%8c%b2" rel="category tag">サイクリングの記録</a> <a href="http://www.yama-kei.org/local_train_nakameguro2/archives/1224" title="Attack! 299 へのパーマリンク" rel="bookmark">パーマリンク</a>
+			</footer><!-- .entry-meta -->
+</article><!-- #post-1224 -->
+					<nav role="navigation" id="nav-below" class="site-navigation post-navigation">
+		<h1 class="assistive-text">投稿ナビゲーション</h1>
+
+	
+		<div class="nav-previous"><a href="http://www.yama-kei.org/local_train_nakameguro2/archives/1214" rel="prev"><span class="meta-nav">&larr;</span> JBCF 東日本ロードクラシック 修善寺</a></div>		<div class="nav-next"><a href="http://www.yama-kei.org/local_train_nakameguro2/archives/1244" rel="next">鉢巻道路サイクリング <span class="meta-nav">&rarr;</span></a></div>
+	
+	</nav><!-- #nav-below -->
+	
+					<div id="comments" class="comments-area">
+	
+	
+			<h2 class="comments-title">
+			「<span>Attack! 299</span>」への6件のフィードバック		</h2>
+
+		
+		<ol class="commentlist">
+				<li class="comment even thread-even depth-1" id="li-comment-734">
+		<article id="comment-734" class="comment">
+			<footer>
+				<div class="comment-author vcard">
+					<img alt='' src='http://0.gravatar.com/avatar/688d2647322da576855ab256259495db?s=45&#038;d=identicon&#038;r=g' srcset='http://0.gravatar.com/avatar/688d2647322da576855ab256259495db?s=90&#038;d=identicon&#038;r=g 2x' class='avatar avatar-45 photo' height='45' width='45' loading='lazy' decoding='async'/>					O橋 <span class="says">のコメント:</span>				</div><!-- .comment-author .vcard -->
+				
+				<div class="comment-meta commentmetadata">
+					<a href="http://www.yama-kei.org/local_train_nakameguro2/archives/1224#comment-734"><time pubdate datetime="2011-08-08T11:32:45+09:00">
+					2011年8月8日 11:32					</time></a>
+									</div><!-- .comment-meta .commentmetadata -->
+			</footer>
+
+			<div class="comment-content"><p>#2010だったO橋です。<br />
+パンク修理＆撤収時の補給と違うチームなのにサポートして頂きありがとうございました。<br />
+いつも同じ面子で走っているので、違う方面の人たちと走るのは楽しかったですよ。</p>
+<p>あの場面でシフトワイヤー切れはほんと災難でしたね。<br />
+15T固定でよくぞ志賀坂峠を登ったなぁと思います。<br />
+その後の上野原で修理できて何よりでした。<br />
+（修理不可で完走するほうがネタ的には面白かったですけど…）</p>
+</div>
+
+			<div class="reply">
+							</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	</li><!-- #comment-## -->
+	<li class="comment byuser comment-author-admin bypostauthor odd alt thread-odd thread-alt depth-1" id="li-comment-735">
+		<article id="comment-735" class="comment">
+			<footer>
+				<div class="comment-author vcard">
+					<img alt='' src='http://1.gravatar.com/avatar/adc068958a301b226df5c1c1338c7e85?s=45&#038;d=identicon&#038;r=g' srcset='http://1.gravatar.com/avatar/adc068958a301b226df5c1c1338c7e85?s=90&#038;d=identicon&#038;r=g 2x' class='avatar avatar-45 photo' height='45' width='45' loading='lazy' decoding='async'/>					<a href="http://www.yama-kei.org" class="url" rel="ugc">yama-kei</a> <span class="says">のコメント:</span>				</div><!-- .comment-author .vcard -->
+				
+				<div class="comment-meta commentmetadata">
+					<a href="http://www.yama-kei.org/local_train_nakameguro2/archives/1224#comment-735"><time pubdate datetime="2011-08-09T07:46:04+09:00">
+					2011年8月9日 07:46					</time></a>
+									</div><!-- .comment-meta .commentmetadata -->
+			</footer>
+
+			<div class="comment-content"><p>> O橋さん<br />
+どうもお疲れさまでした。<br />
+MTB乗りな3人との一緒のライドは楽しかったです。<br />
+いつもあのあたりの面子で走ってると強くなりそうですね。</p>
+<p>リア固定で麦草まで登ったらネタとしては最強クラスでしょう！<br />
+志賀坂峠で足が攣りはじめていたので、十国峠の途中か麦草峠の出だしでヘバってた<br />
+可能性が高いです。サポートカー様々・・・です。</p>
+</div>
+
+			<div class="reply">
+							</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	</li><!-- #comment-## -->
+	<li class="comment even thread-even depth-1" id="li-comment-736">
+		<article id="comment-736" class="comment">
+			<footer>
+				<div class="comment-author vcard">
+					<img alt='' src='http://0.gravatar.com/avatar/901712a981bab53f396955cb876064b9?s=45&#038;d=identicon&#038;r=g' srcset='http://0.gravatar.com/avatar/901712a981bab53f396955cb876064b9?s=90&#038;d=identicon&#038;r=g 2x' class='avatar avatar-45 photo' height='45' width='45' loading='lazy' decoding='async'/>					<a href="http://neopma.blog28.fc2.com/" class="url" rel="ugc external nofollow">PMA</a> <span class="says">のコメント:</span>				</div><!-- .comment-author .vcard -->
+				
+				<div class="comment-meta commentmetadata">
+					<a href="http://www.yama-kei.org/local_train_nakameguro2/archives/1224#comment-736"><time pubdate datetime="2011-08-09T10:13:56+09:00">
+					2011年8月9日 10:13					</time></a>
+									</div><!-- .comment-meta .commentmetadata -->
+			</footer>
+
+			<div class="comment-content"><p>おつかれさまでした！<br />
+15Tしばりで十石、麦草も制覇して伝説をうちたてる機会を奪ってしまったと後悔しています。<br />
+でもお役にたてたようでなによりです(^^)</p>
+</div>
+
+			<div class="reply">
+							</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	</li><!-- #comment-## -->
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-737">
+		<article id="comment-737" class="comment">
+			<footer>
+				<div class="comment-author vcard">
+					<img alt='' src='http://0.gravatar.com/avatar/0e88069d0cb5e3c4023c52917cdce0dc?s=45&#038;d=identicon&#038;r=g' srcset='http://0.gravatar.com/avatar/0e88069d0cb5e3c4023c52917cdce0dc?s=90&#038;d=identicon&#038;r=g 2x' class='avatar avatar-45 photo' height='45' width='45' loading='lazy' decoding='async'/>					ba-mos <span class="says">のコメント:</span>				</div><!-- .comment-author .vcard -->
+				
+				<div class="comment-meta commentmetadata">
+					<a href="http://www.yama-kei.org/local_train_nakameguro2/archives/1224#comment-737"><time pubdate datetime="2011-08-10T09:23:29+09:00">
+					2011年8月10日 09:23					</time></a>
+									</div><!-- .comment-meta .commentmetadata -->
+			</footer>
+
+			<div class="comment-content"><p>翌日は予告も無く私的な付き合いに同席いただき、ありがとうございました。</p>
+<p>今回初参加だったのですが、クリアするたびにキツくなるというコース設定に<br />
+シビレマシタ。<br />
+次回もスケジュールが合うようなら参加したいです。</p>
+</div>
+
+			<div class="reply">
+							</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	</li><!-- #comment-## -->
+	<li class="post pingback">
+		<p>ピンバック: <a href="http://dp53005382.lolipop.jp/bear_bell/2011/08/06/%ef%bc%92%ef%bc%90%ef%bc%91%ef%bc%91%e5%b9%b4%ef%bc%98%e6%9c%88%e7%b7%b4%e7%bf%92%e8%a8%98%e9%8c%b2/" class="url" rel="ugc external nofollow">２０１１年８月練習記録 | Bear Bell</a></p>
+	</li><!-- #comment-## -->
+	<li class="comment byuser comment-author-admin bypostauthor even thread-even depth-1" id="li-comment-739">
+		<article id="comment-739" class="comment">
+			<footer>
+				<div class="comment-author vcard">
+					<img alt='' src='http://1.gravatar.com/avatar/adc068958a301b226df5c1c1338c7e85?s=45&#038;d=identicon&#038;r=g' srcset='http://1.gravatar.com/avatar/adc068958a301b226df5c1c1338c7e85?s=90&#038;d=identicon&#038;r=g 2x' class='avatar avatar-45 photo' height='45' width='45' loading='lazy' decoding='async'/>					<a href="http://www.yama-kei.org" class="url" rel="ugc">yama-kei</a> <span class="says">のコメント:</span>				</div><!-- .comment-author .vcard -->
+				
+				<div class="comment-meta commentmetadata">
+					<a href="http://www.yama-kei.org/local_train_nakameguro2/archives/1224#comment-739"><time pubdate datetime="2011-08-11T08:09:43+09:00">
+					2011年8月11日 08:09					</time></a>
+									</div><!-- .comment-meta .commentmetadata -->
+			</footer>
+
+			<div class="comment-content"><p>> PMAさん<br />
+いやいや、根性ないんで15T固定だったら十国峠でリタイヤだったと思いますよ。<br />
+ほんとにお世話になりました。</p>
+<p>> ba-mosさん<br />
+Attack! 299、コースもイベントとしての雰囲気もよいですよね。<br />
+日曜日の食堂も美味しかったです。</p>
+</div>
+
+			<div class="reply">
+							</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	</li><!-- #comment-## -->
+		</ol>
+
+		
+	
+			<p class="nocomments">コメントは停止中です。</p>
+	
+	
+</div><!-- #comments .comments-area -->
+			
+			</div><!-- #content -->
+		</div><!-- #primary .site-content -->
+
+		<div id="secondary" class="widget-area" role="complementary">
+			
+			
+			
+				
+		<aside id="recent-posts-2" class="widget widget_recent_entries">
+		<h1 class="widget-title">最近の投稿</h1>
+		<ul>
+											<li>
+					<a href="http://www.yama-kei.org/local_train_nakameguro2/archives/2382">自転車でゴルフに行く話</a>
+									</li>
+											<li>
+					<a href="http://www.yama-kei.org/local_train_nakameguro2/archives/2379">久しぶりのパワーメーター</a>
+									</li>
+											<li>
+					<a href="http://www.yama-kei.org/local_train_nakameguro2/archives/2352">子供用自転車とPalo Alto Bicycles</a>
+									</li>
+											<li>
+					<a href="http://www.yama-kei.org/local_train_nakameguro2/archives/2342">子供用のバイク トレーラーを導入してみた</a>
+									</li>
+											<li>
+					<a href="http://www.yama-kei.org/local_train_nakameguro2/archives/2330">車にHitch Receiverをつけてバイクキャリアを装着してみた</a>
+									</li>
+					</ul>
+
+		</aside><aside id="categories-5" class="widget widget_categories"><h1 class="widget-title">カテゴリー</h1>
+			<ul>
+					<li class="cat-item cat-item-11"><a href="http://www.yama-kei.org/local_train_nakameguro2/archives/category/%e3%82%b5%e3%82%a4%e3%82%af%e3%83%aa%e3%83%b3%e3%82%b0%e3%81%ae%e8%a8%98%e9%8c%b2">サイクリングの記録</a> (14)
+</li>
+	<li class="cat-item cat-item-10"><a href="http://www.yama-kei.org/local_train_nakameguro2/archives/category/%e3%83%88%e3%83%ac%e3%83%bc%e3%83%8b%e3%83%b3%e3%82%b0">トレーニング</a> (22)
+<ul class='children'>
+	<li class="cat-item cat-item-21"><a href="http://www.yama-kei.org/local_train_nakameguro2/archives/category/%e3%83%88%e3%83%ac%e3%83%bc%e3%83%8b%e3%83%b3%e3%82%b0/%e3%81%bf%e3%81%9a%e3%81%9f%e3%81%be%e7%b7%b4">みずたま練</a> (3)
+</li>
+	<li class="cat-item cat-item-17"><a href="http://www.yama-kei.org/local_train_nakameguro2/archives/category/%e3%83%88%e3%83%ac%e3%83%bc%e3%83%8b%e3%83%b3%e3%82%b0/%e3%83%88%e3%83%ac%e3%83%bc%e3%83%8b%e3%83%b3%e3%82%b0%e7%ae%a1%e7%90%86">トレーニング管理</a> (9)
+</li>
+	<li class="cat-item cat-item-20"><a href="http://www.yama-kei.org/local_train_nakameguro2/archives/category/%e3%83%88%e3%83%ac%e3%83%bc%e3%83%8b%e3%83%b3%e3%82%b0/%e4%bd%93%e8%aa%bf%e7%ae%a1%e7%90%86">体調管理</a> (2)
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-5"><a href="http://www.yama-kei.org/local_train_nakameguro2/archives/category/%e3%83%ac%e3%83%bc%e3%82%b9%e3%83%ac%e3%83%9d%e3%83%bc%e3%83%88">レースレポート</a> (40)
+<ul class='children'>
+	<li class="cat-item cat-item-8"><a href="http://www.yama-kei.org/local_train_nakameguro2/archives/category/%e3%83%ac%e3%83%bc%e3%82%b9%e3%83%ac%e3%83%9d%e3%83%bc%e3%83%88/%e3%81%9d%e3%81%ae%e3%81%bb%e3%81%8b">そのほか</a> (8)
+</li>
+	<li class="cat-item cat-item-19"><a href="http://www.yama-kei.org/local_train_nakameguro2/archives/category/%e3%83%ac%e3%83%bc%e3%82%b9%e3%83%ac%e3%83%9d%e3%83%bc%e3%83%88/%e3%82%af%e3%83%aa%e3%83%86%e3%83%aa%e3%82%a6%e3%83%a0">クリテリウム</a> (3)
+</li>
+	<li class="cat-item cat-item-6"><a href="http://www.yama-kei.org/local_train_nakameguro2/archives/category/%e3%83%ac%e3%83%bc%e3%82%b9%e3%83%ac%e3%83%9d%e3%83%bc%e3%83%88/%e3%83%92%e3%83%ab%e3%82%af%e3%83%a9%e3%82%a4%e3%83%a0">ヒルクライム</a> (5)
+</li>
+	<li class="cat-item cat-item-7"><a href="http://www.yama-kei.org/local_train_nakameguro2/archives/category/%e3%83%ac%e3%83%bc%e3%82%b9%e3%83%ac%e3%83%9d%e3%83%bc%e3%83%88/%e3%83%ad%e3%83%bc%e3%83%89%e3%83%ac%e3%83%bc%e3%82%b9">ロードレース</a> (26)
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-3"><a href="http://www.yama-kei.org/local_train_nakameguro2/archives/category/%e6%a9%9f%e6%9d%90%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6">機材について</a> (43)
+<ul class='children'>
+	<li class="cat-item cat-item-4"><a href="http://www.yama-kei.org/local_train_nakameguro2/archives/category/%e6%a9%9f%e6%9d%90%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6/%e3%82%b3%e3%83%b3%e3%83%94%e3%83%a5%e3%83%bc%e3%82%bf%e3%83%bc">コンピューター</a> (5)
+</li>
+	<li class="cat-item cat-item-14"><a href="http://www.yama-kei.org/local_train_nakameguro2/archives/category/%e6%a9%9f%e6%9d%90%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6/%e3%82%b3%e3%83%b3%e3%83%9d%e3%83%bc%e3%83%8d%e3%83%b3%e3%83%88">コンポーネント</a> (4)
+</li>
+	<li class="cat-item cat-item-9"><a href="http://www.yama-kei.org/local_train_nakameguro2/archives/category/%e6%a9%9f%e6%9d%90%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6/%e3%83%91%e3%83%af%e3%83%bc%e3%83%a1%e3%83%bc%e3%82%bf%e3%83%bc%e3%81%82%e3%82%8c%e3%81%93%e3%82%8c">パワーメーターあれこれ</a> (12)
+</li>
+	<li class="cat-item cat-item-15"><a href="http://www.yama-kei.org/local_train_nakameguro2/archives/category/%e6%a9%9f%e6%9d%90%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6/%e3%83%9d%e3%82%b8%e3%82%b7%e3%83%a7%e3%83%8b%e3%83%b3%e3%82%b0">ポジショニング</a> (3)
+</li>
+	<li class="cat-item cat-item-18"><a href="http://www.yama-kei.org/local_train_nakameguro2/archives/category/%e6%a9%9f%e6%9d%90%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6/%e8%87%aa%e8%bb%a2%e8%bb%8a%e3%82%a6%e3%82%a7%e3%82%a2%e3%83%bc">自転車ウェアー</a> (7)
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-23"><a href="http://www.yama-kei.org/local_train_nakameguro2/archives/category/%e5%ad%90%e4%be%9b%e3%81%a8%e8%87%aa%e8%bb%a2%e8%bb%8a">子供と自転車</a> (4)
+</li>
+	<li class="cat-item cat-item-13"><a href="http://www.yama-kei.org/local_train_nakameguro2/archives/category/%e8%87%aa%e8%bb%a2%e8%bb%8a%e3%83%a1%e3%83%87%e3%82%a3%e3%82%a2">自転車メディア</a> (24)
+</li>
+	<li class="cat-item cat-item-16"><a href="http://www.yama-kei.org/local_train_nakameguro2/archives/category/%e8%87%aa%e8%bb%a2%e8%bb%8a%e4%bb%a5%e5%a4%96%e3%81%ae%e6%b4%bb%e5%8b%95">自転車以外の活動</a> (12)
+</li>
+	<li class="cat-item cat-item-12"><a href="http://www.yama-kei.org/local_train_nakameguro2/archives/category/%e6%97%a5%e3%80%85%e3%81%ae%e3%81%a4%e3%81%b6%e3%82%84%e3%81%8d">日々のつぶやき</a> (60)
+</li>
+	<li class="cat-item cat-item-1"><a href="http://www.yama-kei.org/local_train_nakameguro2/archives/category/%e6%9c%aa%e5%88%86%e9%a1%9e">未分類</a> (1)
+</li>
+			</ul>
+
+			</aside><aside id="search-5" class="widget widget_search"><h1 class="widget-title">検索</h1>	<form method="get" id="searchform" action="http://www.yama-kei.org/local_train_nakameguro2/" role="search">
+		<label for="s" class="assistive-text">検索</label>
+		<input type="text" class="field" name="s" id="s" placeholder="検索 &hellip;" />
+		<input type="submit" class="submit" name="submit" id="searchsubmit" value="検索" />
+	</form></aside><aside id="archives-5" class="widget widget_archive"><h1 class="widget-title">アーカイブ</h1>
+			<ul>
+					<li><a href='http://www.yama-kei.org/local_train_nakameguro2/archives/date/2022/11'>2022年11月</a></li>
+	<li><a href='http://www.yama-kei.org/local_train_nakameguro2/archives/date/2022/10'>2022年10月</a></li>
+	<li><a href='http://www.yama-kei.org/local_train_nakameguro2/archives/date/2021/07'>2021年7月</a></li>
+	<li><a href='http://www.yama-kei.org/local_train_nakameguro2/archives/date/2020/03'>2020年3月</a></li>
+	<li><a href='http://www.yama-kei.org/local_train_nakameguro2/archives/date/2019/10'>2019年10月</a></li>
+	<li><a href='http://www.yama-kei.org/local_train_nakameguro2/archives/date/2019/09'>2019年9月</a></li>
+	<li><a href='http://www.yama-kei.org/local_train_nakameguro2/archives/date/2019/07'>2019年7月</a></li>
+	<li><a href='http://www.yama-kei.org/local_train_nakameguro2/archives/date/2019/02'>2019年2月</a></li>
+	<li><a href='http://www.yama-kei.org/local_train_nakameguro2/archives/date/2019/01'>2019年1月</a></li>
+	<li><a href='http://www.yama-kei.org/local_train_nakameguro2/archives/date/2018/07'>2018年7月</a></li>
+	<li><a href='http://www.yama-kei.org/local_train_nakameguro2/archives/date/2017/05'>2017年5月</a></li>
+	<li><a href='http://www.yama-kei.org/local_train_nakameguro2/archives/date/2017/04'>2017年4月</a></li>
+	<li><a href='http://www.yama-kei.org/local_train_nakameguro2/archives/date/2016/05'>2016年5月</a></li>
+	<li><a href='http://www.yama-kei.org/local_train_nakameguro2/archives/date/2015/08'>2015年8月</a></li>
+	<li><a href='http://www.yama-kei.org/local_train_nakameguro2/archives/date/2014/04'>2014年4月</a></li>
+	<li><a href='http://www.yama-kei.org/local_train_nakameguro2/archives/date/2014/01'>2014年1月</a></li>
+	<li><a href='http://www.yama-kei.org/local_train_nakameguro2/archives/date/2013/12'>2013年12月</a></li>
+	<li><a href='http://www.yama-kei.org/local_train_nakameguro2/archives/date/2013/09'>2013年9月</a></li>
+	<li><a href='http://www.yama-kei.org/local_train_nakameguro2/archives/date/2013/08'>2013年8月</a></li>
+	<li><a href='http://www.yama-kei.org/local_train_nakameguro2/archives/date/2013/07'>2013年7月</a></li>
+	<li><a href='http://www.yama-kei.org/local_train_nakameguro2/archives/date/2013/05'>2013年5月</a></li>
+	<li><a href='http://www.yama-kei.org/local_train_nakameguro2/archives/date/2013/04'>2013年4月</a></li>
+	<li><a href='http://www.yama-kei.org/local_train_nakameguro2/archives/date/2013/03'>2013年3月</a></li>
+	<li><a href='http://www.yama-kei.org/local_train_nakameguro2/archives/date/2013/02'>2013年2月</a></li>
+	<li><a href='http://www.yama-kei.org/local_train_nakameguro2/archives/date/2012/10'>2012年10月</a></li>
+	<li><a href='http://www.yama-kei.org/local_train_nakameguro2/archives/date/2012/09'>2012年9月</a></li>
+	<li><a href='http://www.yama-kei.org/local_train_nakameguro2/archives/date/2012/08'>2012年8月</a></li>
+	<li><a href='http://www.yama-kei.org/local_train_nakameguro2/archives/date/2012/01'>2012年1月</a></li>
+	<li><a href='http://www.yama-kei.org/local_train_nakameguro2/archives/date/2011/12'>2011年12月</a></li>
+	<li><a href='http://www.yama-kei.org/local_train_nakameguro2/archives/date/2011/11'>2011年11月</a></li>
+	<li><a href='http://www.yama-kei.org/local_train_nakameguro2/archives/date/2011/10'>2011年10月</a></li>
+	<li><a href='http://www.yama-kei.org/local_train_nakameguro2/archives/date/2011/09'>2011年9月</a></li>
+	<li><a href='http://www.yama-kei.org/local_train_nakameguro2/archives/date/2011/08'>2011年8月</a></li>
+	<li><a href='http://www.yama-kei.org/local_train_nakameguro2/archives/date/2011/07'>2011年7月</a></li>
+	<li><a href='http://www.yama-kei.org/local_train_nakameguro2/archives/date/2011/06'>2011年6月</a></li>
+	<li><a href='http://www.yama-kei.org/local_train_nakameguro2/archives/date/2011/05'>2011年5月</a></li>
+	<li><a href='http://www.yama-kei.org/local_train_nakameguro2/archives/date/2011/04'>2011年4月</a></li>
+	<li><a href='http://www.yama-kei.org/local_train_nakameguro2/archives/date/2011/03'>2011年3月</a></li>
+	<li><a href='http://www.yama-kei.org/local_train_nakameguro2/archives/date/2011/02'>2011年2月</a></li>
+	<li><a href='http://www.yama-kei.org/local_train_nakameguro2/archives/date/2011/01'>2011年1月</a></li>
+	<li><a href='http://www.yama-kei.org/local_train_nakameguro2/archives/date/2010/12'>2010年12月</a></li>
+	<li><a href='http://www.yama-kei.org/local_train_nakameguro2/archives/date/2010/11'>2010年11月</a></li>
+	<li><a href='http://www.yama-kei.org/local_train_nakameguro2/archives/date/2010/09'>2010年9月</a></li>
+	<li><a href='http://www.yama-kei.org/local_train_nakameguro2/archives/date/2010/08'>2010年8月</a></li>
+	<li><a href='http://www.yama-kei.org/local_train_nakameguro2/archives/date/2010/07'>2010年7月</a></li>
+			</ul>
+
+			</aside><aside id="recent-comments-3" class="widget widget_recent_comments"><h1 class="widget-title">最近のコメント</h1><ul id="recentcomments"><li class="recentcomments"><a href="http://www.yama-kei.org/local_train_nakameguro2/archives/2279/comment-page-1#comment-18484">地元のクラブライド</a> に <span class="comment-author-link"><a href="http://www.yama-kei.org" class="url" rel="ugc">yama-kei</a></span> より</li><li class="recentcomments"><a href="http://www.yama-kei.org/local_train_nakameguro2/archives/2279/comment-page-1#comment-18483">地元のクラブライド</a> に <span class="comment-author-link"><a href="https://www.strava.com/athletes/36328411" class="url" rel="ugc external nofollow">Atsushi Oshima</a></span> より</li><li class="recentcomments"><a href="http://www.yama-kei.org/local_train_nakameguro2/archives/2270/comment-page-1#comment-18482">Old La Honda</a> に <span class="comment-author-link">yamakei</span> より</li><li class="recentcomments"><a href="http://www.yama-kei.org/local_train_nakameguro2/archives/2270/comment-page-1#comment-18481">Old La Honda</a> に <span class="comment-author-link">Bagle Panda</span> より</li><li class="recentcomments"><a href="http://www.yama-kei.org/local_train_nakameguro2/archives/2254/comment-page-1#comment-18480">ベイエリア・自転車生活ことはじめ (2)</a> に <span class="comment-author-link"><a href="http://www.yama-kei.org" class="url" rel="ugc">yama-kei</a></span> より</li></ul></aside>
+					</div><!-- #secondary .widget-area -->
+	</div><!-- #main -->
+
+	<footer id="colophon" class="site-footer" role="contentinfo">
+		<div class="site-info">
+						<a href="http://wordpress.org/" title="セマンティックなブログ／CMS プラットフォーム" rel="generator">Proudly powered by WordPress</a>
+			<span class="sep"> | </span>
+			Theme: Sundance by <a href="https://wordpress.com/themes/" rel="designer">WordPress.com</a>.		</div><!-- .site-info -->
+	</footer><!-- .site-footer .site-footer -->
+</div><!-- #page .hfeed .site -->
+
+<script type="text/javascript" src="http://www.yama-kei.org/local_train_nakameguro2/wp-content/themes/sundance/js/small-menu.js?ver=20120305" id="sundance-small-menu-js"></script>
+<script type="text/javascript" src="http://www.yama-kei.org/local_train_nakameguro2/wp-content/themes/sundance/js/jquery.flexslider.js?ver=20120903" id="sundance-flex-slider-js"></script>
+<script type="text/javascript" src="http://www.yama-kei.org/local_train_nakameguro2/wp-content/themes/sundance/js/theme.js?ver=20120213" id="sundance-theme-js"></script>
+
+</body>
+</html>
