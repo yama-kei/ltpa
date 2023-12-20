@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>トレーニング | 鈍行・パロアルトの自転車メモ</title>
+	<atom:link href="/archives/category/%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Thu, 10 Oct 2019 03:47:46 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>/wp-content/uploads/cropped-IMG_20200712_143136-EFFECTS-1-scaled-1-32x32.jpg</url>
+	<title>トレーニング | 鈍行・パロアルトの自転車メモ</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>最低限走れるレベルってなんだろう</title>
+		<link>/archives/2313</link>
+		
+		<dc:creator><![CDATA[yama-kei]]></dc:creator>
+		<pubDate>Thu, 10 Oct 2019 03:47:44 +0000</pubDate>
+				<category><![CDATA[トレーニング]]></category>
+		<category><![CDATA[体調管理]]></category>
+		<category><![CDATA[日々のつぶやき]]></category>
+		<guid isPermaLink="false">/?p=2313</guid>
+
+					<description><![CDATA[<p>この数年、2年前にFlecheを走ったときを除いて、継続的にロードバイクに走ることをしてなくて、アメリカに移ってからも片道20分/約8kmの自転車通勤以外ではほぼロードバイクに乗っていなかったので、体力は「定期的に運動を [&#8230;]</p>
+<p>The post <a href="/archives/2313">最低限走れるレベルってなんだろう</a> first appeared on <a href="">鈍行・パロアルトの自転車メモ</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>この数年、<a href="/?p=2148">2年前にFlecheを走った</a>ときを除いて、継続的にロードバイクに走ることをしてなくて、アメリカに移ってからも片道20分/約8kmの自転車通勤以外ではほぼロードバイクに乗っていなかったので、体力は「定期的に運動をしていないレベル」にまで落ちてたと思う。</p>
+
+
+
+<p>で、8月末から一時的に独身モードになったので、自転車活動を復活させようと意識的に乗るようにして、最低限走れるレベルにまでもっていくというプロセスを通って色々と思うところがあったので、まとめてみる。</p>
+
+
+
+<figure class="wp-block-image"><img fetchpriority="high" decoding="async" width="1024" height="768" src="/wp-content/uploads/IMG_20190928_103733-1-1024x768.jpg" alt="" class="wp-image-2315" srcset="/wp-content/uploads/IMG_20190928_103733-1-1024x768.jpg 1024w, /wp-content/uploads/IMG_20190928_103733-1-320x240.jpg 320w, /wp-content/uploads/IMG_20190928_103733-1-768x576.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<span id="more-2313"></span>
+
+
+
+<p>感覚的に話になるのだけど、自分の中で「走れるレベル」をカテゴライズすると、以下のようになる。数字とかはざっくり&amp;&amp;自分の場合なので、あくまで参考までに…。</p>
+
+
+
+<table class="wp-block-table"><tbody><tr><td>レベル</td><td>無理せず走れる距離 (km)</td><td>必要なトレーニング期間 (month)</td><td>安静時心拍数 (bpm)</td><td>推定W/kg</td></tr><tr><td><strong>1</strong>:乗ってない</td><td>50</td><td>0</td><td>60</td><td>3.6</td></tr><tr><td><strong>2</strong>: ちょっとだけ走れる</td><td>100</td><td>0.5</td><td>60</td><td>3.8</td></tr><tr><td><strong>3</strong>: 最低限走れる</td><td>150</td><td>1</td><td>50</td><td>4</td></tr><tr><td><strong>4</strong>: ベースができてる</td><td>200</td><td>4</td><td>40</td><td>4.5</td></tr><tr><td><strong>5</strong>: レース走れる</td><td>200</td><td>6</td><td>40</td><td>4.8</td></tr></tbody></table>
+
+
+
+<p><strong>レベル1</strong>は自転車乗ってない状態。自転車以外でも、有酸素運動を定期的にやってない状態で、心肺能力も筋力も落ちきってる状態。ロードバイクに乗ると、ちょっと負荷をかけるとすぐに心拍数が上がってしまい、負荷がかかる走行を続けるとすぐにへばる体力で、回復にも時間がかかる。</p>
+
+
+
+<p><strong>レベル2</strong>は、ちょっとだけ自転車乗ってるか、有酸素運動をやってて少しは体が動く状態。ロードバイクで平地主体のコースを走る限りであれば100kmくらいならなんとか走れる。心肺能力は多少ましになっているものの、まだまだベースができておらず、ちょっと負荷をかけるとすぐにAT値を超えてしまうので、山登りを含むサイクリングだと疲労が溜まりやすい。</p>
+
+
+
+<p><strong>レベル3</strong>は、ロードバイクを山岳コースを含むサイクリングを楽しんで走ることができる状態。自分の中の基準で、自転車乗りを名乗るのであれば、少なくともこのくらいには達しておきたい走力。極端な長距離や高い強度の練習でない限りは回復も早くなっているので、このレベルに達していると練習のボリュームも稼ぎやすくなる。</p>
+
+
+
+<p><strong>レベル4</strong>は、しっかり走り込んで自転車をレース強度で走るためのベースができている状態。このレベルまでは、レース・スペシフィックな練習をするというよりも、単純に練習のボリューム(走行距離・走行時間)をできるだけ多く稼げば到達できる。</p>
+
+
+
+<p><strong>レベル5</strong>は、何らかのレースに向けたトレーニングを積んだ状態。このレベルに到達するに際しては、W/kgを上げるのか、1分走の強度を上げるのか、長距離レース向けの持久力をつけるのか、ということを意識的に選択して練習しないとたどり着かないレベル。</p>
+
+
+
+<p>各レベルに到達する所要時間やその他のパラメーターは人それぞれだと思うけど、だいたい自分の場合はこんな感じ。8月末から毎週土曜日にほぼ似たような強度のクラブライドに参加して、週を重ねるごとに走力が上がって回復スピードも上がり、分かりやすく安静時心拍数も下がり…という変化を顕著に感じることができたので、過去に体力レベルが落ちた状態からレースを走れるレベルまで持っていった時の経験にも照らし合わせてみたデータなので、感覚値としてはそこそこ信頼できそう。</p>
+
+
+
+<figure class="wp-block-image"><img decoding="async" width="1024" height="768" src="/wp-content/uploads/IMG_20190920_072819-1024x768.jpg" alt="" class="wp-image-2316" srcset="/wp-content/uploads/IMG_20190920_072819-1024x768.jpg 1024w, /wp-content/uploads/IMG_20190920_072819-320x240.jpg 320w, /wp-content/uploads/IMG_20190920_072819-768x576.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>またレースを走ることになるかは分からないけど、今は久しぶりに自分の中でレベル3にたどり着いている実感があったので、忙しくなってもこのレベルは維持したいなーと思っている。</p><p>The post <a href="/archives/2313">最低限走れるレベルってなんだろう</a> first appeared on <a href="">鈍行・パロアルトの自転車メモ</a>.</p>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>おきなわ対策練</title>
+		<link>/archives/1569</link>
+		
+		<dc:creator><![CDATA[yama-kei]]></dc:creator>
+		<pubDate>Thu, 03 Nov 2011 23:39:17 +0000</pubDate>
+				<category><![CDATA[トレーニング]]></category>
+		<guid isPermaLink="false">/?p=1569</guid>
+
+					<description><![CDATA[<p>2011年ラストレース(予定)のおきなわまで約1週間。 今年は8月あたりまでずっと調子が悪くて、パワーメーターの数値も去年のものを上回ることがなかったのだけど、9月あたりからようやく調子が上がってきて、10月のJBCF輪 [&#8230;]</p>
+<p>The post <a href="/archives/1569">おきなわ対策練</a> first appeared on <a href="">鈍行・パロアルトの自転車メモ</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>2011年ラストレース(予定)のおきなわまで約1週間。</p>
+<p><a href="/wp-content/uploads/PB113555.jpg" rel="lightbox[1569]"><img decoding="async" class="alignnone size-medium wp-image-1574" title="PB113555" src="/wp-content/uploads/PB113555-320x240.jpg" alt="PB113555" width="320" height="240" srcset="/wp-content/uploads/PB113555-320x240.jpg 320w, /wp-content/uploads/PB113555.jpg 640w" sizes="(max-width: 320px) 100vw, 320px" /></a></p>
+<p><span id="more-1569"></span>今年は8月あたりまでずっと調子が悪くて、パワーメーターの数値も去年のものを上回ることがなかったのだけど、9月あたりからようやく調子が上がってきて、10月のJBCF輪島ではようやく上位に絡む走りができた。</p>
+<p>この勢いに乗じてラストレースのおきなわ(140km)でもよい結果が出せるように・・・と10月後半はおきなわを意識した練習(できるだけノンストップ・中強度のロングライド)に集中。強度を犠牲にしても距離を乗ることを優先して、レース2本(JBCF箱根HC、JBCF輪島)に参加しつつも1,600km+乗り込んだ。普段レースがある月は1,000-1,200kmくらいしか走らないので、これは自分的には頑張った数値。レースまで2週間を切ったので、あとは一旦身体を休めて、一旦疲労を抜いてからちょこちょこ刺激を与えていってレースに臨むつもり。</p>
+<p>で、11/3はおきなわを意識した房総半島での練習会がmasahifさんによって企画されている・・・ということで、タマキさんやKOHさんと一緒にお邪魔させていただいた。</p>
+<p>＊＊</p>
+<p><a href="http://yahoo.jp/rVcg6u">コース</a>は普久川ダムと似たような登り2本と、登り基調のアップダウン(トラック街道)2本、細かいアップダウンがたくさん・・・という設定。KOHさんカーに同乗させてもらい、集合場所の君津バスターミナルに移動し、準備してからスタート。TT車両の宮澤選手やらJPTカテゴリーの選手やら、強豪選手がウジャウジャ。全員で30人以上いたと思う。</p>
+<p>序盤は人数が多いので、いくつかのパックに分かれて進行。自分は10人くらいのグループの次の第二集団で、ゴローさんやタマキさん、KOHさんと一緒。鹿野山の登りがはじまると、40-50m先の前方のグループに合流するためにゴローさんが一本引きしてくれたのでついていく。鹿野山の登りは3,4%と6,7%の勾配が交互に現れるような5.5km/270mくらいの登りで、比較的ドラフティングが効く感じ。先頭グループにドッキングすると、頭ではZaikouさんが飛び出してる。相変わらず元気だなーと感心しながらついていき、最後のペースアップにもそこそこ対応して登り切る。</p>
+<p>鹿野山1本目 15:11/6.1km/278W/172bpm/92rpm</p>
+<p>この時点で残ったのは10-15人くらい。下りながら再集合していき、20人くらいに増えた状態でアップダウン区間に突入。おきなわ140kmに出るというyasさんやZaikouさんが元気なので、三人で無駄に飛び出したりすることが多かった。これは失敗。ある程度まとまった登りになると、たいていT岡さんがスルスルッと前に出てきてペースを作ったり、様子を伺ったり。なんというかボスっぽい走り。これに対抗して前に出ようとしたりして無駄足を使いつつ、プチ峠を越えて下って2本目の鹿野山へ。これまた失敗。無駄足使い過ぎ。</p>
+<p>登りが始まるとT岡さんがガツンと踏んで飛び出す。しばらくしてから追走ムードになって、集団前方がバラけはじめる。この流れに乗り遅れると取り残されるので、ググッと踏んで追走グループにくっつく。ラバネロの方が積極的に追う形でペースが上がり続け、半分も行ってないあたりで自分は千切れる。後ろにいたKOHさんには「しっかりついてって」と言っておく。淡々と登っていくと、TT車両の宮澤選手をパス。TT車両でヒルクライムっぽい登りは走りにくそう。ボトルゲージが壊れてストップしてたタマキさんをパスするものの、調子はよいようでラスト1kmくらいで抜き返される。登りのラストでもう二人をかわしてまこっちさんとタマキさんを視界に捉えながら登り切り、サクサク下っていって下りの最後で集団に合流。30-40秒くらいの遅れであればリスクを取らない程度の下り方で再合流できる感じ。結局、自分の前にいたのは7,8人くらい。</p>
+<p>鹿野山2本目 15:33/6.1km/266W/175bpm/80rpm</p>
+<p>しばらく行った先のコンビニで先行していたショートカット組と合流。自分はダブルボトルでまだ1本目も飲み終わってなかったのでトイレのみ。冷静に考えると、今日はシングルボトルが正解。</p>
+<p>**</p>
+<p>コンビニを先頭付近で出発して房総スカイラインに向けて走っていくと、5人くらいのパックで行きましょうということになってナルシマ2名と宮澤選手、T岡さんあたりと一緒になる。このメンツはヤバそうだなーと思いながら料金所に着くと、後ろからまこっちさんやタマキさんが合流して9名になる。</p>
+<p>房総スカイラインは3,4%くらいで登ってところどころ平坦っぽくなるレイアウト。アゲアゲではないものの、ジワっとよいペースでローテが回る。房総スカイラインを抜けた先も淡々とアップダウンが続くので、変わらずよいペース。TT車両の宮澤選手が前に出て「引くモード」になるとじわっとペースが上がってキツくなる。自分は何も考えずに宮澤選手の後ろにつくことが多かったけど、これは体力を温存することを考えると完全に失敗。ついていくときに楽できないし、前に出るときも足を使う必要が出てきてキツい。誰の後ろにつくか、いつ前に出るか、どのくらい(長さ・強度)引くか・・・、うまく走るためのヒントを身を削りながら学ぶことができた。</p>
+<p>GPSつきサイコンにルート情報を入れていたのが自分ひとりだったので、道を確認しながら進行していたのだけど、途中の下り基調で狭い道を左に曲がるべきところをパスしてしまい、1kmくらい先に行ってからUターン。土地勘のある人がいて助かった。</p>
+<p>狭い道に入ってからは少しリラックスモードになって進行・・・と思ったらプチ峠が出てくる。このあたりで悠々と先行してしまうT岡さんはやっぱり強いなーと感心しながら集団について登る。登り切ってヘロヘロトンネルを走っていたら物見山のK村さんと絡みそうになっておっとっと。失礼しました。</p>
+<p>広い道に戻って君津方面に戻ってきた(?)・・・と思ったら、交差点を右折して1本目の鹿野山のあとに走ったアップダウン区間(トラック街道)に突入。足のあった1回目とは打って変わり、余裕がないのでひたすら我慢。そのうちTTポジションの宮澤選手の一本引きがはじまり、前にギャップができてたので後方から足を使ってブリッジ(足使い過ぎた)。その後もキツーいペースが続き、足に力が入らなくなったので後続に前に行ってもらい、集団の後ろにつく・・・と思ったらつけずに一人旅。集団がグングンと離れていく。</p>
+<p>まだ残りが20km近くあるし、土地勘がないのでショートカットもできないので淡々と個人TTペースで進む。まとまった下りがあれば追いつけるかも・・・と淡い期待を抱いたものの、何回か信号ストップに阻まれてその夢もついえる。残り10km少々の地点で宮澤選手が後続を待っていてくれた(?)ので、ランデブー状態で残りは流し気味に走っておしまい。</p>
+<p>3:47/119.9km/2,668kJ</p>
+<p>＊＊</p>
+<p>走力云々の前に、まだまだ自分は集団での走り方がへたくそだなーということを思い知った練習だった。</p>
+<p>おきなわ140kmのライバルになるであろう面々と一緒に走れたのは大きな収穫。</p>
+<p>主催者のmasahifさん、ありがとうございました！</p>
+<p>＊＊</p>
+<p><a href="/wp-content/uploads/DSCF0641.jpg" rel="lightbox[1569]"><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-1573" title="DSCF0641" src="/wp-content/uploads/DSCF0641-320x240.jpg" alt="DSCF0641" width="320" height="240" srcset="/wp-content/uploads/DSCF0641-320x240.jpg 320w, /wp-content/uploads/DSCF0641.jpg 640w" sizes="(max-width: 320px) 100vw, 320px" /></a></p>
+<p>おきなわの機材はExtreme-PowerにWH-7900-C24の予定。減ってきていたタイヤはVittoria Corsa Evo-SCにチェンジ。</p>
+<p>レース・練習時に「やまけいさんですね」と認識される時に目印になっているのは大抵自転車なので、やっぱりこの自転車は目立つみたい。練習中にみかけてもいじめないようにお願いします。</p><p>The post <a href="/archives/1569">おきなわ対策練</a> first appeared on <a href="">鈍行・パロアルトの自転車メモ</a>.</p>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>BearBell的おきなわ対策練</title>
+		<link>/archives/1553</link>
+					<comments>/archives/1553#comments</comments>
+		
+		<dc:creator><![CDATA[yama-kei]]></dc:creator>
+		<pubDate>Wed, 19 Oct 2011 20:49:03 +0000</pubDate>
+				<category><![CDATA[トレーニング]]></category>
+		<guid isPermaLink="false">/?p=1553</guid>
+
+					<description><![CDATA[<p>BearBellメンバーと一緒に計画しているおきなわ対策練の予定を告知。 それなりに長い距離をできるだけノンストップで走るのが目的なので千切り合いはなし。全員でよいペースを維持しつつ、ポイントポイントでアゲ目にして走るよ [&#8230;]</p>
+<p>The post <a href="/archives/1553">BearBell的おきなわ対策練</a> first appeared on <a href="">鈍行・パロアルトの自転車メモ</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>BearBellメンバーと一緒に計画しているおきなわ対策練の予定を告知。</p>
+<p><a href="/wp-content/uploads/PB113482.jpg" rel="lightbox[1553]"><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-1558" title="PB113482" src="/wp-content/uploads/PB113482-320x240.jpg" alt="PB113482" width="320" height="240" srcset="/wp-content/uploads/PB113482-320x240.jpg 320w, /wp-content/uploads/PB113482.jpg 640w" sizes="(max-width: 320px) 100vw, 320px" /></a></p>
+<p><span id="more-1553"></span>それなりに長い距離をできるだけノンストップで走るのが目的なので千切り合いはなし。全員でよいペースを維持しつつ、ポイントポイントでアゲ目にして走るようなイメージ。</p>
+<p>興味のある方は、ブログにコメントまたは keisuke.yamaguchi@gmail.com までご連絡お願いします。初めての方もウェルカムですが、千切れた際・トラブル時の救済策は取れない可能性が高いので、そのあたりはご理解ください。</p>
+<p>＊＊</p>
+<p><strong>10/22(Sat)</strong> <strong>しろくまパンサイクリング</strong></p>
+<ul>
+<li>コース：<a href="http://yahoo.jp/3fIFZy">立川基点で主に裏道を使って寄居往復</a></li>
+<li>集合：8:00 日野橋</li>
+<li>テーマ：ひたすら淡々と距離を走る</li>
+</ul>
+<p>＊＊</p>
+<p><strong>10/29(Sat)　山中湖往復</strong></p>
+<ul>
+<li>コース：<a href="http://yj.pn/JkSjVo">道志みち〜山中湖〜都留〜雛鶴</a></li>
+<li>集合：9:00 道志みち入口のヤマザキパン</li>
+<li>テーマ：レースを意識した強度でしっかり距離を走る</li>
+</ul>
+<p>＊＊</p>
+<p><strong>11/3(Thu) 秩父基点で模擬レース</strong></p>
+<ul>
+<li>コース：<a href="http://latlonglab.yahoo.co.jp/route/watch?id=4077f66508ef4b2d52459891b1484b50">秩父基点で</a><a href="http://latlonglab.yahoo.co.jp/route/watch?id=4077f66508ef4b2d52459891b1484b50">志賀坂峠と土坂峠</a></li>
+<li>集合：9:00 秩父駅から299号を進んだ先のコンビニ</li>
+<li>テーマ：レースを意識した強度でしっかり距離を走る</li>
+</ul><p>The post <a href="/archives/1553">BearBell的おきなわ対策練</a> first appeared on <a href="">鈍行・パロアルトの自転車メモ</a>.</p>]]></content:encoded>
+					
+					<wfw:commentRss>/archives/1553/feed</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>FTP測定</title>
+		<link>/archives/1195</link>
+					<comments>/archives/1195#comments</comments>
+		
+		<dc:creator><![CDATA[yama-kei]]></dc:creator>
+		<pubDate>Sun, 24 Jul 2011 23:01:34 +0000</pubDate>
+				<category><![CDATA[トレーニング管理]]></category>
+		<category><![CDATA[日々のつぶやき]]></category>
+		<guid isPermaLink="false">/?p=1195</guid>
+
+					<description><![CDATA[<p>久しぶりにMAP TestでFTP測定。 前に書いた通り、MAP Testは正しく実施することができれば20分TTほど長く苦しい思いをしなくてもFTPが(そこそこ正確に)測定できる便利な方法。 今回は150Wから1分ごと [&#8230;]</p>
+<p>The post <a href="/archives/1195">FTP測定</a> first appeared on <a href="">鈍行・パロアルトの自転車メモ</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>久しぶりにMAP TestでFTP測定。</p>
+<p><a href="/wp-content/uploads/P1030932.jpg" rel="lightbox[1195]"><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-1200" title="P1030932" src="/wp-content/uploads/P1030932-320x240.jpg" alt="P1030932" width="320" height="240" srcset="/wp-content/uploads/P1030932-320x240.jpg 320w, /wp-content/uploads/P1030932.jpg 640w" sizes="(max-width: 320px) 100vw, 320px" /></a></p>
+<p><span id="more-1195"></span><a href="/?p=483">前に書いた通り</a>、MAP Testは正しく実施することができれば20分TTほど長く苦しい思いをしなくてもFTPが(そこそこ正確に)測定できる便利な方法。</p>
+<p>今回は150Wから1分ごとに25Wずつ上げていき、350Wの1分に辿り着いたあたりで踏めなくなってテスト終了。ベストの1分平均は358Wという結果。</p>
+<p>0.75をかけて268.5W・・・ということで、FTPは約270W。</p>
+<p>GCのヒストグラムを眺めていてFTPが270W前後なのは大体見当がついていたのだけど、それを裏付ける数値。</p>
+<p>昨年の12月に立てた計画では、2-4月あたりにFTP向上のためのトレーニングを集中的にやって、今頃は280Wか290Wくらいまで上げていられることを狙っていたのだけど、見事に失敗。ま、風邪ひいちゃったり乗れなかったりな時期があって、計画通りに行かなかったわりにそこそこレースで走れているのでよしとすべきかな。</p>
+<p>Golden CheetahのCritical Powerグラフを見ると、1秒から4,5時間まで、ほとんどのパワー域で昨年のベストを上回っていない。パワー値が全てというわけではないけど、昨年まで継続的に実感できていた成長が今年は止まってしまったようで少し寂しい。深く考えないでトレーニングしても成長できる時期が終わった、ということかもしれないので、強くなるためにはさらなる試行錯誤が必要といえそう。</p><p>The post <a href="/archives/1195">FTP測定</a> first appeared on <a href="">鈍行・パロアルトの自転車メモ</a>.</p>]]></content:encoded>
+					
+					<wfw:commentRss>/archives/1195/feed</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>7/6 みずたま練</title>
+		<link>/archives/1134</link>
+		
+		<dc:creator><![CDATA[yama-kei]]></dc:creator>
+		<pubDate>Wed, 06 Jul 2011 23:38:47 +0000</pubDate>
+				<category><![CDATA[みずたま練]]></category>
+		<guid isPermaLink="false">/?p=1134</guid>
+
+					<description><![CDATA[<p>みずたま練4週目。 日曜日のレース＆練習後は月、火と休んだのでほぼサラ足。Raphaのバンドルパックで余った(&#038;サイズがちょっと大きい)V-Neck Base Layer(ピンク)をサコッシュに入れてスタート地 [&#8230;]</p>
+<p>The post <a href="/archives/1134">7/6 みずたま練</a> first appeared on <a href="">鈍行・パロアルトの自転車メモ</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>みずたま練4週目。</p>
+<p><a href="/wp-content/uploads/P7065008.jpg" rel="lightbox[1134]"><img loading="lazy" decoding="async" src="/wp-content/uploads/P7065008-320x240.jpg" alt="P7065008" title="P7065008" width="320" height="240" class="alignnone size-medium wp-image-1135" srcset="/wp-content/uploads/P7065008-320x240.jpg 320w, /wp-content/uploads/P7065008.jpg 640w" sizes="(max-width: 320px) 100vw, 320px" /></a></p>
+<p><span id="more-1134"></span><br />
+日曜日のレース＆練習後は月、火と休んだのでほぼサラ足。Raphaのバンドルパックで余った(&#038;サイズがちょっと大きい)V-Neck Base Layer(ピンク)をサコッシュに入れてスタート地点へ。スタート地点でkenさんにこれを渡してディール成立(まいどあり〜)。</p>
+<p>そのままスタート。連光寺の登りはじめでぎゅるぎゅるパワーが出て調子のいいことが分かる。でもその先で少しパワーダウン。記念館通りは序盤330-340Wくらいで緩めに入り、途中からアタック気味にダンシングでペースアップ・・・という走り方を練習。「緩急をつけた走り」ってのが最近のテーマ。</p>
+<p>尾根幹線の上を越える区間もアウターでシッティング->アウターでダンシングとペースを変化させる走り方を実践。尾根幹線、鎌倉街道はゆるゆる。残りの区間も登りを上げて、平地・下りは流すというスタイル。このコースを毎週走っていると、最後の尾根幹線の上に出る登りが少しずつ楽に感じられるようになってくる。</p>
+<p>ここ最近になってようやくノーマルドライブのギアでの走り方を身体が分かってきたなーという印象で、調子もそこそこ上がってきた。FTP向上は達成できていない気がするけど、ロードレース的な走りでは確実に強くなっている感触もある。7月は石川、修善寺と実業団レースが続くので、経験を積みつつ勝負に絡める走りを実践したい。</p><p>The post <a href="/archives/1134">7/6 みずたま練</a> first appeared on <a href="">鈍行・パロアルトの自転車メモ</a>.</p>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Train or not to train: that is the question</title>
+		<link>/archives/1088</link>
+					<comments>/archives/1088#comments</comments>
+		
+		<dc:creator><![CDATA[yama-kei]]></dc:creator>
+		<pubDate>Wed, 06 Jul 2011 00:12:08 +0000</pubDate>
+				<category><![CDATA[トレーニング管理]]></category>
+		<category><![CDATA[日々のつぶやき]]></category>
+		<guid isPermaLink="false">/?p=1088</guid>
+
+					<description><![CDATA[<p>自転車競技でのパフォーマンス向上や、レースに向けたコンディショニングを考える上で、大切になってくるのが「いかに休むか」ということ。 今年からシマノで走っている西園選手も書いているけれど、フルタイムのレーサーとそうでない人 [&#8230;]</p>
+<p>The post <a href="/archives/1088">Train or not to train: that is the question</a> first appeared on <a href="">鈍行・パロアルトの自転車メモ</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>自転車競技でのパフォーマンス向上や、レースに向けたコンディショニングを考える上で、大切になってくるのが「いかに休むか」ということ。</p>
+<p><a href="/wp-content/uploads/DSC_2111.jpg" rel="lightbox[1088]"><img loading="lazy" decoding="async" src="/wp-content/uploads/DSC_2111-320x212.jpg" alt="DSC_2111" title="DSC_2111" width="320" height="212" class="alignnone size-medium wp-image-1090" srcset="/wp-content/uploads/DSC_2111-320x212.jpg 320w, /wp-content/uploads/DSC_2111.jpg 640w" sizes="(max-width: 320px) 100vw, 320px" /></a></p>
+<p><span id="more-1088"></span><br />
+今年からシマノで走っている西園選手も<a href="http://blog.nishizonoryota.jp/blog/2011/06/post_cff9.html">書いている</a>けれど、フルタイムのレーサーとそうでない人のトレーニング環境・プロセスの一番の違いはレストの量であり質なのではないかと思う。</p>
+<p>例えばFTP250Wの人がいたとして、FTP向上を狙って250W近辺でのトレーニング量をできるだけたくさんこなそうとしたとする。</p>
+<p>調子のいい日は250W20分なり30分なりのトレーニングが何本かできているとして、疲れが溜まっていたり調子の悪い日には220W10分も出せなくなってしまうかもしれない。250Wで鍛えることができる代謝システムと、220Wで鍛えられる代謝システムは別物なわけで、狙っているトレーニング効果が得られるチャンスは減ってしまう。</p>
+<p>「トレーニングの質を大切にしなさい」とはよく言うけれど、これは裏を返せば「優れた質のトレーニングができる状態を維持しなさい」(=次のトレーニングに向けてしっかり休む)ということ。</p>
+<p>トレーニング以外の時間を全て回復時間に使えるフルタイムレーサーに対し、フルタイムワーカーとして自転車競技を楽しむアマチュアレーサーは、「十分に休息できているか」「トレーニングで狙った負荷をかけられているか」「ストレスは溜めていないか」といったあたりのことに大いに気をつける必要があるのだと思う。</p>
+<p>＊＊</p>
+<p><a href="/wp-content/uploads/P6044827.jpg" rel="lightbox[1088]"><img loading="lazy" decoding="async" src="/wp-content/uploads/P6044827-320x240.jpg" alt="P6044827" title="P6044827" width="320" height="240" class="alignnone size-medium wp-image-1128" srcset="/wp-content/uploads/P6044827-320x240.jpg 320w, /wp-content/uploads/P6044827.jpg 640w" sizes="(max-width: 320px) 100vw, 320px" /></a></p>
+<p>さらに、トレーニング本によく出てくる事例として、引っ越しや転職、結婚や子育てなど、生活環境が大きく変わることで目に見えない形で精神的・肉体的ストレスが身体にかかり、自転車のトレーニングやレースでのパフォーマンスが落ちる、ということもあるらしい。そういう時は無理にトレーニングで負荷をかけずに、あえて休息しないと大きくコンディションを落としてしまうとのこと。</p>
+<p>自転車のエンジンであるところの人間はあくまでナマモノなわけで、よく食べて、しっかり休んで、ストレスがかからないようにして、はじめてベストなパフォーマンスが出せるようになる・・・ということらしい。</p>
+<p>あと、「レースをやってる高校生や大学生の伸びが凄い」なんて話はよく聞くし実感としてもあるけれど、これも一番の理由は彼らの回復力によるもの。加齢による回復力の低下の原因は<a href="http://www.mastersathlete.com.au/sidebar/endurance/recovery/">諸説ある</a>ようだけど、いずれにせよ若ければ若いほど密度の濃いトレーニングを続けることができるわけで、それだけ成長も早くなる、ということなのだと思う。</p>
+<p>＊＊</p>
+<p>自分が意識しているリカバリー手段をまとめてみると・・・</p>
+<ul>
+<li>乗らない</li>
+<p>トレーニングしても効果が得られなさそうな時は乗らずに休む。その分よく寝るとか、ストレッチするとか、お風呂入るとかして身体を休ませる。あるいは、自転車とは違う筋肉を使う運動をやって、身体をリフレッシュさせる。どうしても自転車に乗るぜ！という場合は、ハイケイデンストレーニングや、気楽なサイクリング程度に留めておく。</p>
+<p><a href="/wp-content/uploads/shidakura020.jpg" rel="lightbox[1088]"><img loading="lazy" decoding="async" src="/wp-content/uploads/shidakura020-320x240.jpg" alt="shidakura020" title="shidakura020" width="320" height="240" class="alignnone size-medium wp-image-1122" srcset="/wp-content/uploads/shidakura020-320x240.jpg 320w, /wp-content/uploads/shidakura020.jpg 640w" sizes="(max-width: 320px) 100vw, 320px" /></a></p>
+<p>レースが近かったり、仲間が強くなってたり、天気がよかったりすると「走りに行かなくちゃ！」という気持ちになりがちだけど、そこであえて休むのには勇気がいることもあると思う。そういう意味で、自転車活動以外に気晴らしの手段やルーティンを持っているのは大切なんじゃないかと思う。</ul>
+<ul>
+<li>睡眠</li>
+<p>寝られるだけ寝てしまえるのが理想で、身体のバイオリズムにあわせて快適な環境で「グッスリ」眠る、質の高い睡眠を心がけたいところ。トレーニング-&gt;食べる-&gt;眠るというプロセスがひとつの形なので、一日空いている日はあえて早めに切り上げて、食事を済ませて昼寝・・・というのもアリなんじゃないかと思う。</p>
+<p><a href="/wp-content/uploads/DSC_23981.jpg" rel="lightbox[1088]"><img loading="lazy" decoding="async" src="/wp-content/uploads/DSC_23981-320x212.jpg" alt="DSC_2398" title="DSC_2398" width="320" height="212" class="alignnone size-medium wp-image-1130" srcset="/wp-content/uploads/DSC_23981-320x212.jpg 320w, /wp-content/uploads/DSC_23981.jpg 640w" sizes="(max-width: 320px) 100vw, 320px" /></a></p>
+<p>自分は8時間くらい眠らないと睡眠不足を感じる性質なのだけど、ここのところ6-7時間しか眠れていないのでこの点に関しては要改善。</ul>
+<ul>
+<li>食事</li>
+<p>トレーニング後はなるべく早いタイミングで失ったカロリーを摂るべき。食べ過ぎない程度にバランス良く食べるのが理想で、食事のレシピとしては「<a href="/?p=881">自転車ゴハン</a>」なんかが参考になるかも。</p>
+<p><iframe src="http://rcm-jp.amazon.co.jp/e/cm?lt1=_blank&#038;bc1=000000&#038;IS2=1&#038;bg1=FFFFFF&#038;fc1=000000&#038;lc1=0000FF&#038;t=pastelcoloure-22&#038;o=9&#038;p=8&#038;l=as4&#038;m=amazon&#038;f=ifr&#038;ref=ss_til&#038;asins=4777918963" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe></p>
+<p>自分の場合、朝ご飯は毎日同じでパン焼き機の全粒粉パン、自家製ヨーグルトにメープルシロップ、それにフルーツというメニュー。ときどきパンの代わりにムーズリ。昼食は12時頃に会社の近くで好きなものを食べて、夕食は6時頃に会社の食堂で身体によさそうなものを選んで摂取。平日に関して言えば、一般的な会社員としてはそこそこヘルシーな食生活を送れているのではないかと思う。</ul>
+<ul>
+<li>サプリ</li>
+<p>トレーニング直後のプロテインだけは確実に効果があるな、という実感がある。筋量が増えるというよりも、筋肉痛からの回復が明らかに早くなるので、ある程度以上負荷をかけたトレーニングのあとは必ず摂取するようにしている。自分が愛用しているのは牛乳に溶いて飲むと美味しく飲めるザバスのココア味。</p>
+<p><iframe src="http://rcm-jp.amazon.co.jp/e/cm?lt1=_blank&#038;bc1=000000&#038;IS2=1&#038;bg1=FFFFFF&#038;fc1=000000&#038;lc1=0000FF&#038;t=pastelcoloure-22&#038;o=9&#038;p=8&#038;l=as4&#038;m=amazon&#038;f=ifr&#038;ref=ss_til&#038;asins=B0013X4O00" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe></p>
+<p>ただし、プロテインを摂取していると体重が落ちにくくなる印象があるので、ヒルクライムなんかで体重を落としたい時はセーブしたほうがよさげ。今年の前半は、プロテインの代わりにアミノ酸サプリを試していたのだけど、回復効果が得られている感触が得られなかったので、プロテインに戻した。</ul>
+<ul>
+<li>マッサージ・ストレッチ</li>
+<p>これは最近から強く意識するようになった。前にスポーツマッサージを受けた時に「股関節が硬い」と言われてストレッチ方法を教えてもらったので、トレーニング後やお風呂の後にそれをやったり、アフターアクティビティクリームやマッサージオイルを塗って念入りにセルフマッサージしたりしている。セルフマッサージは確実に効果があるな、と思う。</p>
+<p><iframe src="http://rcm-jp.amazon.co.jp/e/cm?lt1=_blank&#038;bc1=000000&#038;IS2=1&#038;bg1=FFFFFF&#038;fc1=000000&#038;lc1=0000FF&#038;t=pastelcoloure-22&#038;o=9&#038;p=8&#038;l=as4&#038;m=amazon&#038;f=ifr&#038;ref=ss_til&#038;asins=B000FQR32W" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe></ul>
+<ul>
+<li>お風呂</li>
+<p>これは好き好きだけど、リラックス効果は確実にあると思う。汗を流してさっぱりして、身体を温めてから風呂上りに水分を摂ってマッサージ・・・という流れを作りやすいのがナイス。</ul>
+<ul>
+<li>コンプレッションウェアー</li>
+<p>導入した当初は寝るときに使っていて、回復効果どころか逆に疲れるような印象があったのだけど、普通に起きている時(主にデスクワーク中)に着用することで効果を実感できるようになってきた。特にハードなロングライドの翌日など、筋肉痛が酷い時に着用していると回復が早まる印象。</p>
+<p><iframe src="http://rcm-jp.amazon.co.jp/e/cm?lt1=_blank&#038;bc1=000000&#038;IS2=1&#038;bg1=FFFFFF&#038;fc1=000000&#038;lc1=0000FF&#038;t=pastelcoloure-22&#038;o=9&#038;p=8&#038;l=as4&#038;m=amazon&#038;f=ifr&#038;ref=ss_til&#038;asins=B0041G4PKU" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe></p>
+<p>人によっては寝てる時に着用して効果があるという人もいるので、謎の多いアイテム。「着るサプリ」とはよく言ったもので、「信じるものは救われる」的要素が大きいのかな、と思う。</ul><p>The post <a href="/archives/1088">Train or not to train: that is the question</a> first appeared on <a href="">鈍行・パロアルトの自転車メモ</a>.</p>]]></content:encoded>
+					
+					<wfw:commentRss>/archives/1088/feed</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>6/29 みずたま練</title>
+		<link>/archives/1081</link>
+		
+		<dc:creator><![CDATA[yama-kei]]></dc:creator>
+		<pubDate>Thu, 30 Jun 2011 00:45:34 +0000</pubDate>
+				<category><![CDATA[みずたま練]]></category>
+		<guid isPermaLink="false">/?p=1081</guid>
+
+					<description><![CDATA[<p>みずたま練もはや3週目。 前日は新大久保でBearBellメンバーと焼肉食べ放題に挑戦していたので、睡眠不足＆軽い二日酔い＆肉の消化で体へのダメージが残る中出発。それにしても今日はこの時間から暑い！ここのところ負荷をかけ [&#8230;]</p>
+<p>The post <a href="/archives/1081">6/29 みずたま練</a> first appeared on <a href="">鈍行・パロアルトの自転車メモ</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>みずたま練もはや3週目。</p>
+<p><a href="/wp-content/uploads/P6224946.jpg" rel="lightbox[1081]"><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-1083" title="P6224946" src="/wp-content/uploads/P6224946-320x240.jpg" alt="P6224946" width="320" height="240" srcset="/wp-content/uploads/P6224946-320x240.jpg 320w, /wp-content/uploads/P6224946.jpg 640w" sizes="(max-width: 320px) 100vw, 320px" /></a></p>
+<p><span id="more-1081"></span>前日は新大久保でBearBellメンバーと焼肉食べ放題に挑戦していたので、睡眠不足＆軽い二日酔い＆肉の消化で体へのダメージが残る中出発。それにしても今日はこの時間から暑い！ここのところ負荷をかけ続けていたので、身体が重くてパワーが出ず、重いギア踏むと身体が悲鳴を上げる。練習になるのか心配になってくる。</p>
+<p>6:30に大丸のサンクスだけど、5:40に家の玄関を出るとちょうど6:27+/-2分で着く。スタート時間ジャストにアツさん登場。勝負用のSL3を初めて拝む。マットなペインティングはなかなかよいかも。</p>
+<p>連光寺坂は300Wペース。途中で信号ストップを挟んでしまう。やっぱりここは歩道を走ったほうがよいかも。途中アツさんに前に出てもらい、交差点の手前でまた自分が前へ。記念館通りは、序盤の急なところは330-350Wくらいで踏み、途中からダンシング。アツさん切れるのがワンテンポ早い。もう少し粘れるんでないのと思う。</p>
+<p>尾根幹線?鎌倉街道は少し強度弱めで進行し、登り区間だけはできるだけアゲて頑張る。ダンシングのフォームを意識。少し後ろに体重を残して、いよいよ余裕がなくなったら前輪加重に移行する感じ。はるひ野の住宅地の坂はタラタラ登り、最後に尾根幹線の上に登り詰める区間だけは維持できる限界で頑張って終了。</p>
+<p><a href="/wp-content/uploads/mizutama_ren.png" rel="lightbox[1081]"><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-1084" title="mizutama_ren" src="/wp-content/uploads/mizutama_ren-320x154.png" alt="mizutama_ren" width="320" height="154" srcset="/wp-content/uploads/mizutama_ren-320x154.png 320w, /wp-content/uploads/mizutama_ren.png 874w" sizes="(max-width: 320px) 100vw, 320px" /></a></p>
+<p>帰りの多摩川は暑かった。</p><p>The post <a href="/archives/1081">6/29 みずたま練</a> first appeared on <a href="">鈍行・パロアルトの自転車メモ</a>.</p>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>6/22 みずたま練</title>
+		<link>/archives/1034</link>
+		
+		<dc:creator><![CDATA[yama-kei]]></dc:creator>
+		<pubDate>Wed, 22 Jun 2011 13:19:54 +0000</pubDate>
+				<category><![CDATA[みずたま練]]></category>
+		<guid isPermaLink="false">/?p=1034</guid>
+
+					<description><![CDATA[<p>今日は水曜日なのでみずたま練へ。 週末の沢登りで体が重く、多摩川に向かいながらも調子の悪さを感じる。なんだか知らないけど今日は朝から暑い。 ジャスト45分で大丸のサンクス到着。Zaikouさんは「起きれたら」とのことだっ [&#8230;]</p>
+<p>The post <a href="/archives/1034">6/22 みずたま練</a> first appeared on <a href="">鈍行・パロアルトの自転車メモ</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>今日は水曜日なのでみずたま練へ。</p>
+<p><a href="/wp-content/uploads/P6224947.jpg" rel="lightbox[1034]"><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-1037" title="P6224947" src="/wp-content/uploads/P6224947-320x240.jpg" alt="P6224947" width="320" height="240" srcset="/wp-content/uploads/P6224947-320x240.jpg 320w, /wp-content/uploads/P6224947.jpg 640w" sizes="(max-width: 320px) 100vw, 320px" /></a></p>
+<p><span id="more-1034"></span>週末の沢登りで体が重く、多摩川に向かいながらも調子の悪さを感じる。なんだか知らないけど今日は朝から暑い。</p>
+<p>ジャスト45分で大丸のサンクス到着。Zaikouさんは「起きれたら」とのことだったけど、いなかったので30分にスタート。</p>
+<p>前方100mくらいに4-5人大学生(?)集団がいたのでそれを目標に連光寺坂を登っていく。調子が悪いので300W固定。こぼれてきた数名はパスできたけど本隊には届かず。記念館通りは序盤シッティングで途中からダンシング。2,3分続く10%オーバーの坂は相変わらず苦手。</p>
+<p>尾根幹線、鎌倉街道を坦々と走り、その先の登り区間は上げられるだけ上げて走る。体は重いけど、そこそこリズムよく登れている感じ。はるひ野の住宅地に向かう区間で前方からZaikouさんが来たので合流。後ろにピッタリつかれてるとよいプレッシャーになる。「このペースならアタックはかけられないよね」というペースで進行して、尾根幹線をまたぐ陸橋までアゲて走って練習終了。</p>
+<p>42:18/20km/528kJ</p>
+<p>今週はコースをミスらなかったので全部走れた。</p>
+<p>やはり走行時間は42,3分くらい。所要時間は45,6分というところかな。</p>
+<p><a href="/wp-content/uploads/P6224941.jpg" rel="lightbox[1034]"><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-1038" title="P6224941" src="/wp-content/uploads/P6224941-320x240.jpg" alt="P6224941" width="320" height="240" srcset="/wp-content/uploads/P6224941-320x240.jpg 320w, /wp-content/uploads/P6224941.jpg 640w" sizes="(max-width: 320px) 100vw, 320px" /></a></p>
+<p>明らかに先週のほうが調子がよかったけど、調子が悪いなりに登りの感覚やダンシングのフォームを確認できた。7月以降のロードレースのために坦々と続けていこう。</p>
+<p>7,8月は実業団レースに2,3本参加予定。・・・と同時に、この時期は暑くて自転車乗る気がしなくなるのが毎年の常なので、積極的に沢登りや山登りを楽しみつつ体力を落とさないようにしていく予定。</p>
+<p><a href="/wp-content/uploads/DSC_1558.jpg" rel="lightbox[1034]"><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-1039" title="DSC_1558" src="/wp-content/uploads/DSC_1558-212x320.jpg" alt="DSC_1558" width="212" height="320" srcset="/wp-content/uploads/DSC_1558-212x320.jpg 212w, /wp-content/uploads/DSC_1558.jpg 425w" sizes="(max-width: 212px) 100vw, 212px" /></a></p>
+<p>先週行ったのは奥多摩のシダクラ沢。本当は西沢渓谷の釜の沢に泊まりでいく予定が雨でキャンセル。沢が初めてのメンバーがいたので日帰りで初心者向けの沢・・・ということで行ってみたのだけど、水量が多くてなかなか楽しめた。釜の沢にリベンジしたら、次は上越の沢に行きたいところ。</p><p>The post <a href="/archives/1034">6/22 みずたま練</a> first appeared on <a href="">鈍行・パロアルトの自転車メモ</a>.</p>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>6/15 みずたま練</title>
+		<link>/archives/1021</link>
+					<comments>/archives/1021#comments</comments>
+		
+		<dc:creator><![CDATA[yama-kei]]></dc:creator>
+		<pubDate>Wed, 15 Jun 2011 14:06:15 +0000</pubDate>
+				<category><![CDATA[トレーニング]]></category>
+		<guid isPermaLink="false">/?p=1021</guid>
+
+					<description><![CDATA[<p>宣言通り、今朝はみずたま練を実施。 思いつき＆急な開催だったので今回は単独で。 試しに追加してみた記念館通りの坂は、自分が苦手としている斜度なのでよい練習ができた。はるひ野の住宅地方面に曲がり損ねて少しショートカットしま [&#8230;]</p>
+<p>The post <a href="/archives/1021">6/15 みずたま練</a> first appeared on <a href="">鈍行・パロアルトの自転車メモ</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>宣言通り、今朝はみずたま練を実施。</p>
+<p><a href="/wp-content/uploads/20110615_mizutama.png" rel="lightbox[1021]"><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-1022" title="20110615_mizutama" src="/wp-content/uploads/20110615_mizutama-320x187.png" alt="20110615_mizutama" width="320" height="187" srcset="/wp-content/uploads/20110615_mizutama-320x187.png 320w, /wp-content/uploads/20110615_mizutama.png 807w" sizes="(max-width: 320px) 100vw, 320px" /></a></p>
+<p><span id="more-1021"></span></p>
+<p>思いつき＆急な開催だったので今回は単独で。</p>
+<p>試しに追加してみた記念館通りの坂は、自分が苦手としている斜度なのでよい練習ができた。はるひ野の住宅地方面に曲がり損ねて少しショートカットしまったものの、所要時間は約40分。</p>
+<p>連光寺坂で5minCP、帰りに立ち寄ったV通りで1minCPを更新して帰宅。2011年はよい出力値が全然出てないのでまだまだ更新しがいがありそう。</p>
+<p>平日にこういう練習ができるのは有意義なので、来週以降も継続予定。</p><p>The post <a href="/archives/1021">6/15 みずたま練</a> first appeared on <a href="">鈍行・パロアルトの自転車メモ</a>.</p>]]></content:encoded>
+					
+					<wfw:commentRss>/archives/1021/feed</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>みずたま練</title>
+		<link>/archives/1018</link>
+		
+		<dc:creator><![CDATA[yama-kei]]></dc:creator>
+		<pubDate>Tue, 14 Jun 2011 10:52:47 +0000</pubDate>
+				<category><![CDATA[トレーニング]]></category>
+		<guid isPermaLink="false">/?p=1018</guid>
+
+					<description><![CDATA[<p>夏に向けてロードレースで闘っていく気持ちが盛り上がってきた。 ヒルクライムで強くなるための練習は単独・室内でもできるけど、やっぱりロードレースで強くなるにはタフなコースでガンガン走らねば・・・ということで、毎週水曜日は多 [&#8230;]</p>
+<p>The post <a href="/archives/1018">みずたま練</a> first appeared on <a href="">鈍行・パロアルトの自転車メモ</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>夏に向けてロードレースで闘っていく気持ちが盛り上がってきた。</p>
+<p><a href="/wp-content/uploads/DSC_0002.JPG" rel="lightbox[1018]"><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-1019" title="DSC_0002" src="/wp-content/uploads/DSC_0002-320x212.jpg" alt="DSC_0002" width="320" height="212" srcset="/wp-content/uploads/DSC_0002-320x212.jpg 320w, /wp-content/uploads/DSC_0002.JPG 640w" sizes="(max-width: 320px) 100vw, 320px" /></a></p>
+<p><span id="more-1018"></span><br />
+ヒルクライムで強くなるための練習は単独・室内でもできるけど、やっぱりロードレースで強くなるにはタフなコースでガンガン走らねば・・・ということで、毎週水曜日は多摩地区のアップダウンコースをそこそこのペースで走るところからはじめてみることにした。</p>
+<p><script src="http://latlonglab.yahoo.co.jp/route/paste?id=8369c79001c7e615399a978a6a927c68&amp;width=320&amp;height=480" type="text/javascript"></script></p>
+<p>実は昨年の春まで某掲示板のメンバーと一緒にこれとほぼ同様のコースで、毎週水曜朝に走っていたのだけど、色々あって休眠モードになってしまっていたのでした・・・。</p>
+<ul>
+<li>毎週水曜日開催</li>
+<li>大丸のサンクス6:30スタート</li>
+<li>所要時間は45-50分程度</li>
+<li>「待ち」は基本的になしで</li>
+</ul>
+<p>某練習会の名前をパクって(すみません、いまさらですがブログ名もパクリです)、みず(水曜日)たま(多摩)練、と命名。</p>
+<p>まずは明日から実施予定。<br />
+ご一緒してくれる方がいらっしゃいましたらコメントください。</p><p>The post <a href="/archives/1018">みずたま練</a> first appeared on <a href="">鈍行・パロアルトの自転車メモ</a>.</p>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

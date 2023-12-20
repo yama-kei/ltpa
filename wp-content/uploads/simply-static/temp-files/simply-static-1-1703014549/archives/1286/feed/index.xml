@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	自転車雑誌 へのコメント	</title>
+	<atom:link href="/archives/1286/feed" rel="self" type="application/rss+xml" />
+	<link>/archives/1286</link>
+	<description></description>
+	<lastBuildDate>Thu, 25 Aug 2011 00:02:21 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>
+		yama-kei より		</title>
+		<link>/archives/1286/comment-page-1#comment-747</link>
+
+		<dc:creator><![CDATA[yama-kei]]></dc:creator>
+		<pubDate>Thu, 25 Aug 2011 00:02:21 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1286#comment-747</guid>
+
+					<description><![CDATA[&gt; アレサンドロ
+あ！そういえばそうでした。
+なんか裏切られた気分(笑)。
+
+ま、何はともあれ上を目指してやっていきましょー。]]></description>
+			<content:encoded><![CDATA[<p>> アレサンドロ<br />
+あ！そういえばそうでした。<br />
+なんか裏切られた気分(笑)。</p>
+<p>ま、何はともあれ上を目指してやっていきましょー。</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		アレサンドロ・タマッキ より		</title>
+		<link>/archives/1286/comment-page-1#comment-745</link>
+
+		<dc:creator><![CDATA[アレサンドロ・タマッキ]]></dc:creator>
+		<pubDate>Wed, 24 Aug 2011 23:14:07 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1286#comment-745</guid>
+
+					<description><![CDATA[富士チャレ(春)4位とかFUJI55 250kmエキスパート2位とかじゃ、恥ずかしくてBearbellのみんなに自慢できないです(T_T)]]></description>
+			<content:encoded><![CDATA[<p>富士チャレ(春)4位とかFUJI55 250kmエキスパート2位とかじゃ、恥ずかしくてBearbellのみんなに自慢できないです(T_T)</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

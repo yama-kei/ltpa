@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- このサイトマップは、2023年12月20日の04:34に、WordPress 用のオリジナル SEO プラグイン All in One SEO v4.5.2.1により動的生成されました。 -->
+
+<?xml-stylesheet type="text/xsl" href="https://yama-kei.github.io/ltpa/default-sitemap.xsl?sitemap=addl"?>
+<urlset
+	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+	xmlns:xhtml="http://www.w3.org/1999/xhtml"
+	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+>
+	<url>
+		<loc><![CDATA[https://yama-kei.github.io/ltpa]]></loc>
+		<lastmod><![CDATA[2022-11-23T05:35:43+00:00]]></lastmod>
+		<changefreq><![CDATA[always]]></changefreq>
+		<priority><![CDATA[1]]></priority>
+	</url>
+</urlset>

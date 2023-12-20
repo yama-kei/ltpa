@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	6/15 みずたま練 へのコメント	</title>
+	<atom:link href="/archives/1021/feed" rel="self" type="application/rss+xml" />
+	<link>/archives/1021</link>
+	<description></description>
+	<lastBuildDate>Mon, 20 Jun 2011 23:24:37 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>
+		yama-kei より		</title>
+		<link>/archives/1021/comment-page-1#comment-715</link>
+
+		<dc:creator><![CDATA[yama-kei]]></dc:creator>
+		<pubDate>Mon, 20 Jun 2011 23:24:37 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1021#comment-715</guid>
+
+					<description><![CDATA[&gt; KOHさん
+よろしくおねがいしまーす！]]></description>
+			<content:encoded><![CDATA[<p>> KOHさん<br />
+よろしくおねがいしまーす！</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		KOH より		</title>
+		<link>/archives/1021/comment-page-1#comment-713</link>
+
+		<dc:creator><![CDATA[KOH]]></dc:creator>
+		<pubDate>Thu, 16 Jun 2011 07:44:20 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1021#comment-713</guid>
+
+					<description><![CDATA[再来週の水曜日は参加しますよ?！]]></description>
+			<content:encoded><![CDATA[<p>再来週の水曜日は参加しますよ?！</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
